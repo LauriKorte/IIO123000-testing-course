@@ -10,3 +10,5 @@ Opiskelija ymmärtää testauksen merkityksen osana laajempaa tuotekehitysproses
 
 
 [Asio kuvaus](https://asio.jamk.fi/pls/asio/asio_ectskuv1.kurssin_ks?ktun=IIO123000&knro=&noclose=%20&lan=fi)
+
+[target_url=https://github.com/JAMK-IT/IIO123000-testing-course/wiki]
