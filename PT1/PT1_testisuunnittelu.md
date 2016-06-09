@@ -24,7 +24,8 @@ ja ne viedään PDF muotoon, joka palautetaan ohjaajalle
 
 ### Lähteet ja linkit
 
-* http://google.com
+* [Cem Kaner: What is a good test case](http://www.kaner.com/pdfs/GoodTest.pdf)
+* [Matti Vuori: Ajatuksia testitapauksista ](https://drive.google.com/file/d/0B-hPgXTXfK9EbnNHODZsczR5NzQ/view)
 
 
 ### Tavoite:
