@@ -6,16 +6,16 @@ Ryhmä asentaa CI-kehitysympäristön hyödyntäen nykypäivän sähköisiä tuo
 
  
 
-Ryhmä luo palveluihin tarvittavat käyttäjätunnukset ja tuottaa tarvittavan esimerkki koodin, jolla  todennetaan ketjun toimivuus. 
 
-Itse koodilla ei ole merkitystä, kunhan se se soveltuu ketjuun (esim. PHP, Node, python). Kyseessä voi olla vanha harjoitus tai GitHubista löydetty muu projekti.
-
-Ryhmä esittelee toimivan tuotantoketjun ja kirjoitaa asennuksesta raportin.
 
 
 ### Tehtäväkuvaus:
 
-* Lorem Ipsum
+* Ryhmä luo palveluihin tarvittavat käyttäjätunnukset ja tuottaa tarvittavan esimerkki koodin, jolla  todennetaan ketjun toimivuus. 
+
+Itse koodilla ei ole merkitystä, kunhan se se soveltuu ketjuun (esim. PHP, Node, python). Kyseessä voi olla vanha harjoitus tai GitHubista löydetty muu projekti.
+
+Ryhmä esittelee toimivan tuotantoketjun ja kirjoitaa asennuksesta raportin.
 
 
 ### Lähteet ja linkit
