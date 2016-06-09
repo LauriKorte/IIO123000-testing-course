@@ -1,7 +1,7 @@
 ### Harjoitus: Robot Framework-testityökalun käyttö
 
 
-* Lorem Ipsum
+Robot Framework on Nokian tietoliikenne (aiemmin NSN) kehittämä testausautomaatioratkaisu, jota käytetään yrityksissä varsin yleisesti.
 
 
 ### Tehtäväkuvaus:
