@@ -8,18 +8,15 @@ Ryhmä tuottaa testitapauksia videomuodossa
 
 ### Tehtäväkuvaus:
 
-* Ryhmä luo palveluihin tarvittavat käyttäjätunnukset ja tuottaa tarvittavan esimerkki koodin, jolla  todennetaan ketjun toimivuus. 
+Ryhmä suunnittelee kaksi (5) kappaletta videomuotoista testitapausta Contriboard -palveluun liittyen ja tallettaa testitapaukset testlink:iin. Testitapaukseen liittyvä video ladataan youtubeen etc.
 
-Itse koodilla ei ole merkitystä, kunhan se se soveltuu ketjuun (esim. PHP, Node, python). Kyseessä voi olla vanha harjoitus tai GitHubista löydetty muu projekti.
+Testikohteet määritellään ryhmäkohtaisesti!!!
 
-Ryhmä esittelee toimivan tuotantoketjun ja kirjoitaa asennuksesta raportin.
-
+Pyrkikää suunnittelemaan muokkaamaan / leikkaamaan testitapaus esimerkki siten, että sen ajo onnistuu ulkopuolisen testaajankin toimesta. (Kirjoitakaa auki testi myös askeleina ja liittäkää ne osaksi testitapausta) Kerätkää tärkeimmät huomiot/esilletulleet ongelmat suunnittelun aikana ja esitelkää ne katselmoinnin yhteydessä.
 
 ### Lähteet ja linkit
 
-* [Github](http://github.com)
-* [CircleCI](https://circleci.com/)
-* [Heroku](https://www.heroku.com/)
+
 
 
 ### Tavoite:
@@ -30,7 +27,13 @@ Ryhmä esittelee toimivan tuotantoketjun ja kirjoitaa asennuksesta raportin.
 
 ### Arviointi:
 
-* Palautetaan opettajalle 
+Testlink -palvelimelta löytyy testitapaukset, joihin on liitetty video osuus. Ryhmä on tuottanut testitapaukseen liittyvät videot, jotka voidaan tarvittaessa katsoa Youtubelta. Kirjoitetut testitapaukset ovat yhteneväiset videon kanssa.
+
+Palautettava tulos:
+
+Testlink testitapaukset + video integroituna testitapaukseen (Iframe) :)
+
+Palautustilanne: Tarkistetaan tunnilla/ sähköposti
 
 
 
