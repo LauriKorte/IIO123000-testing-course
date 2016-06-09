@@ -6,12 +6,12 @@ Ryhmä ajaa koko testausprosessia yhden testikierroksen ajan.
 
 Ryhmä tutustuu testausprosessiin kokonaisuutena ja ajaa 2-3 testikierrosta omassa prosessissaan
 
+Ryhmä suorittavat testikierroksen kurssin aikana käytettävässä työympäristössä.
+Sisältäen Testlink ja JIRA työkaluketjun
 
 ### Lähteet ja linkit
 
-
 * http://google.com
-
 
 ### Tavoite:
 
