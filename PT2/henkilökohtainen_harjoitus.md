@@ -2,22 +2,25 @@
 
 
 
-* Lorem Ipsum
+* Opiskelija tutustuu Yksikkötestauskehikon (Unit Test Framework) käyttöön ja toteuttaa esimerkin valitsemalleen kohteelle
 
 
 ### Tehtäväkuvaus:
 
-* Lorem Ipsum
+Tutustu XUnit testauskehikkoon ja tuota esimerkki miten käytät sitä osana omaa projektia.
+
+
 
 
 ### Lähteet ja linkit
 
-* http://google.com
+* https://xunit.github.io/
 
 
 ### Tavoite:
 
-* Oppia jotain jännää...
+* Tunnistaa mitä tarkoittaa yksikkötestaus
+* Erottaa yksikkötestaus hyväksyntätestauksesta
 
 
 
