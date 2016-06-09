@@ -18,12 +18,12 @@ Omalle koneelle asennettaessa testit voi ajaa suoraan, työpöydättömälle vir
 
 ### Lähteet ja linkit
 
- * [Robot Framwork sivut](http://robotframework.org/#documentation)
-  * [Robot Framework asennus](https://bitbucket.org/robotframework/webdemo/wiki/Home#rst-header-downloading-demo-package)
-  * [VNC ?](https://www.google.fi/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=vnc+linux)
-  * [Hieman helpotusta ?](https://github.com/N4SJAMK/contriboard_test_automation_envs/blob/master/robot_framework_vagrant_headless/bootstrap.sh)
-  * [Robot Framework ohjeita N4S muodossa](https://github.com/N4SJAMK/teamboard-test/tree/master/robot-framework)
-  * [Robot Frame work ja vagrant pohjainen testiympäristö](https://github.com/N4SJAMK/contriboard_test_automation_envs)
+* [Robot Framwork sivut](http://robotframework.org/#documentation)
+* [Robot Framework asennus](https://bitbucket.org/robotframework/webdemo/wiki/Home#rst-header-downloading-demo-package)
+* [VNC ?](https://www.google.fi/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=vnc+linux)
+* [Hieman helpotusta ?](https://github.com/N4SJAMK/contriboard_test_automation_envs/blob/master/robot_framework_vagrant_headless/bootstrap.sh)
+* [Robot Framework ohjeita N4S muodossa](https://github.com/N4SJAMK/teamboard-test/tree/master/robot-framework)
+* [Robot Frame work ja vagrant pohjainen testiympäristö](https://github.com/N4SJAMK/contriboard_test_automation_envs)
 
 
 
