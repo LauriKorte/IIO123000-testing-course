@@ -1,16 +1,15 @@
 ### Harjoitus: Presentation
 
-
 Esitelmä 
 
 ### Tehtäväkuvaus:
 
-Ryhmä laatii esityksen aiheesta testausvälineet ja tutustuu viiteen ryhmää kiinnostavaan testausvälineeseen
+Ryhmä tutustuu viiteen heitä kiinnostavaan testaustyövälineeseen
+Tuloksista ja huomioista laaditaan esityksen otsikkona "Modernit testaustyökalut" 
 
-
-
-
-* Esitelmä pidetään luokassa sovittuna ajankohtanan
+Esityksen laajuus on oltava riittävä Min 20 Max 35 sivua
+Esityksen kesto Min 15 min 
+Esitelmä pidetään luokassa sovittuna ajankohtanan
 
 
 ### Lähteet ja linkit
