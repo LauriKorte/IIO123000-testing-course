@@ -15,9 +15,9 @@ Testejä tulee laatia seuraavasti:
 
 *Järjestelmätestit:*
 
-10 kpl toiminnallista testiä
-2 kpl Ei-toiminnallista suorityskykytestiä
-1 kpl Ei-toiminnallista tietoturvatestiä
+* 10 kpl toiminnallista testiä
+* 2 kpl Ei-toiminnallista suorityskykytestiä
+* 1 kpl Ei-toiminnallista tietoturvatestiä
 
 Testit kirjoitettaan Kurssin aikana käytettävään Testlink-ympäristöön
 ja ne viedään PDF muotoon, joka palautetaan ohjaajalle
