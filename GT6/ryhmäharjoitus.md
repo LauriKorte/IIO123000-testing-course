@@ -1,4 +1,4 @@
-### Harjoitus:
+### Harjoitus: Contiuous Integration using Jenkins and XUnit framework
 
 
 
