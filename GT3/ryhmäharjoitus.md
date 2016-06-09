@@ -1,26 +1,24 @@
-### Harjoitus:
+### Harjoitus: Testing Process Execution
 
-
-
-* Lorem Ipsum
-
+Ryhmä ajaa koko testausprosessia yhden testikierroksen ajan.
 
 ### Tehtäväkuvaus:
 
-* Lorem Ipsum
+Ryhmä tutustuu testausprosessiin kokonaisuutena ja ajaa 2-3 testikierrosta omassa prosessissaan
 
 
 ### Lähteet ja linkit
+
 
 * http://google.com
 
 
 ### Tavoite:
 
-* Oppia jotain jännää...
+Ymmärtää miten perinteinen testausprosessi toimii
 
 
 
 ### Arviointi:
 
-* Palautetaan opettajalle 
+Opiskelija osallistuu aktiivisesti harjoitukseen ja osaa toimia osana ryhmää
