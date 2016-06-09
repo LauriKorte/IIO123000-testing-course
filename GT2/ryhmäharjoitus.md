@@ -1,11 +1,12 @@
-### Harjoitus:
+### Harjoitus: Issue/Defect Management - JIRA
 
+Tutustutaan varsin yleisesti käytettyyn tehtävä/vianhallinta työkaluun nimeltä JIRA
 
-
-* Lorem Ipsum
 
 
 ### Tehtäväkuvaus:
+
+Ryhmä asentaa JIRAn ja määrittelee kaikille käyttäjätunnuksen
 
 * Lorem Ipsum
 
