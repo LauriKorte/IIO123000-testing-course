@@ -8,7 +8,6 @@ Testaushallinta soveltaen Testlink-työkalua
 
 Ryhmätyön tavoitteena on pysytyttää testauksen hallintaa varten Testlink-työkalu
 Ryhmätyössä jokainen ryhmän jäsen suunnittelee testejä, jotka tallennetaan Testlinkin tietokantaan.
-
 Ryhmän jäsenet siirtävät aiemmin suunnittelemansa testitapaukset Testlink-työkaluun ja tuottavat sen avulla testisuunnitelman.
 Suunnitelma viedään PDF
 
