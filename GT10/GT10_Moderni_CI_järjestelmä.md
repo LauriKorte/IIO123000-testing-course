@@ -1,7 +1,16 @@
 ### Harjoitus: Robot Framework-testityökalun käyttö
 
 
-L
+Ryhmä asentaa CI-kehitysympäristön hyödyntäen nykypäivän sähköisiä tuotekehityspalveluita :) 
+
+
+ 
+
+Ryhmä luo palveluihin tarvittavat käyttäjätunnukset ja tuottaa tarvittavan esimerkki koodin, jolla  todennetaan ketjun toimivuus. 
+
+Itse koodilla ei ole merkitystä, kunhan se se soveltuu ketjuun (esim. PHP, Node, python). Kyseessä voi olla vanha harjoitus tai GitHubista löydetty muu projekti.
+
+Ryhmä esittelee toimivan tuotantoketjun ja kirjoitaa asennuksesta raportin.
 
 
 ### Tehtäväkuvaus:
@@ -11,12 +20,14 @@ L
 
 ### Lähteet ja linkit
 
-* http://google.com
+* [Github](http://github.com)
+* [CircleCI](https://circleci.com/)
+* [Heroku](https://www.heroku.com/)
 
 
 ### Tavoite:
 
-* Oppia jotain jännää...
+* Tavoitteena on tutustua varsin uuteen työkaluketjuun, jossa voidaan ajaa jatkuvan integroinnin prosessia
 
 
 
