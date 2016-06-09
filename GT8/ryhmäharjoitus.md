@@ -1,26 +1,30 @@
-### Harjoitus:
+### Harjoitus: Presentation
 
 
-
-* Lorem Ipsum
-
+Esitelmä 
 
 ### Tehtäväkuvaus:
 
-* Lorem Ipsum
+Ryhmä laatii esityksen aiheesta testausvälineet ja tutustuu viiteen ryhmää kiinnostavaan testausvälineeseen
+
+
+
+
+* Esitelmä pidetään luokassa sovittuna ajankohtanan
 
 
 ### Lähteet ja linkit
 
-* http://google.com
+https://en.wikipedia.org/wiki/Category:Software_testing_tools
 
 
 ### Tavoite:
 
-* Oppia jotain jännää...
-
+* Laajentaa tietämystä markkinoilla olevista muista työvälineistä
+* Parantaa esiintymistaitoa ja kiteyttämistä
 
 
 ### Arviointi:
 
-* Palautetaan opettajalle 
+Hyväksytty/Hylätty 
+
