@@ -1,4 +1,4 @@
-### Harjoitus: Robot Framework-testityökalun käyttö
+### Harjoitus: Moderni CI ketju
 
 
 Ryhmä asentaa CI-kehitysympäristön hyödyntäen nykypäivän sähköisiä tuotekehityspalveluita :) 
