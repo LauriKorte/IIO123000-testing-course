@@ -3,15 +3,15 @@
 Ehdotus 1:
 
 
--[ ] Mustalaatikko
--[ ] Lasilaatikko
--[ ] Yksikkötestaus
--[ ] "Mokkaus"
--[ ] Oraakkeli
--[ ] Liiketoimintavaatimus
--[ ] Loppukäyttäjä
--[ ] Hyväksyntätesti
--[ ] Integraatiotestaus
+- [ ] Mustalaatikko
+- [ ] Lasilaatikko
+- [ ] Yksikkötestaus
+- [ ] "Mokkaus"
+- [ ] Oraakkeli
+- [ ] Liiketoimintavaatimus
+- [ ] Loppukäyttäjä
+- [ ] Hyväksyntätesti
+- [ ] Integraatiotestaus
 -[ ] Systeemitestaus
 -[ ] Toiminnallinen testi
 -[ ] Ei-Toiminnallinen testi (Paratoiminnallinen?)
