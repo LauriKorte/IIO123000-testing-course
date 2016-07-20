@@ -1,15 +1,11 @@
-### Harjoitus:  Test Management with Testlink
-
-Testaushallinta soveltaen Testlink-työkalua
-
+### Harjoitus:  Testaushallinta ja vikatietokanta 
 
 
 ### Tehtäväkuvaus:
 
-Ryhmätyön tavoitteena on pysytyttää testauksen hallintaa varten Testlink-työkalu valitulle koneelle.
-henkilökohtaisessa tehtävässä (PT1) tuotettuja testejä voidaan käyttää aineistona ja niiden avulla tutustutaan export/import toimintoon. Jokainen ryhmän jäsen siirtää omat testitapauksensa demo järjestelmään.
-
+Ryhmätyön tavoitteena on pysytyttää testaushallinnan pohjaksi Testlink-työkalu ja integroida siihen ryhmä valitsema vikatietokanta. Henkilökohtaisessa tehtävässä (PT1) tuotettuja testejä voidaan käyttää aineistona ja niiden avulla tutustutaan export/import toimintoon. Jokainen ryhmän jäsen siirtää omat testitapauksensa demo järjestelmään.
 Jokainen ryhmän jäsen tuottaa oman testauskokonaisuuden "Test Suite" ja tarvittaessa on valmiina esittelemään sen ohjaajalle.
+
 
 ### Lähteet ja linkit
 
