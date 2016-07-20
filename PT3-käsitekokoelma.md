@@ -12,20 +12,20 @@ Ehdotus 1:
 - [ ] Loppukäyttäjä
 - [ ] Hyväksyntätesti
 - [ ] Integraatiotestaus
--[ ] Systeemitestaus
--[ ] Toiminnallinen testi
--[ ] Ei-Toiminnallinen testi (Paratoiminnallinen?)
--[ ] Suorituskykytesti
--[ ] Luotettavuustesti
--[ ] Hyväksyntä kriteeri
--[ ] Tarkistuslista
--[ ] Lopputilanne
--[ ] Tavoitetila
--[ ] Exploratiivinen testaus
--[ ] Testiautomaatio
--[ ] Regressiotestaus
--[ ] Riskipohjainen testaus
--[ ] Skenaariotesti
+- [ ] Systeemitestaus
+- [ ] Toiminnallinen testi
+- [ ] Ei-Toiminnallinen testi (Paratoiminnallinen?)
+- [ ] Suorituskykytesti
+- [ ] Luotettavuustesti
+- [ ] Hyväksyntä kriteeri
+- [ ] Tarkistuslista
+- [ ] Lopputilanne
+- [ ] Tavoitetila
+- [ ] Exploratiivinen testaus
+- [ ] Testiautomaatio
+- [ ] Regressiotestaus
+- [ ] Riskipohjainen testaus
+- [ ] Skenaariotesti
 
 
 
