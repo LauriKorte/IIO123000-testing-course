@@ -26,6 +26,13 @@ Ehdotus 1:
 - [ ] Regressiotestaus
 - [ ] Riskipohjainen testaus
 - [ ] Skenaariotesti
+- [ ] Käyttötapaus
+- [ ] Prioriteetti
+
+Lisää ?
+
+- [ ] Palvelupolku
+- 
 
 
 
