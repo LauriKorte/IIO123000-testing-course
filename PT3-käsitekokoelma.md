@@ -3,29 +3,29 @@
 Ehdotus 1:
 
 
--[ ]Mustalaatikko
--[ ]Lasilaatikko
--[ ]Yksikkötestaus
--[ ]"Mokkaus"
--[ ]Oraakkeli
--[ ]Liiketoimintavaatimus
--[ ]Loppukäyttäjä
--[ ]Hyväksyntätesti
--[ ]Integraatiotestaus
--[ ]Systeemitestaus
--[ ]Toiminnallinen testi
--[ ]Ei-Toiminnallinen testi (Paratoiminnallinen?)
--[ ]Suorituskykytesti
--[ ]Luotettavuustesti
--[ ]Hyväksyntä kriteeri
--[ ]Tarkistuslista
--[ ]Lopputilanne
--[ ]Tavoitetila
--[ ]Exploratiivinen testaus
--[ ]Testiautomaatio
--[ ]Regressiotestaus
--[ ]Riskipohjainen testaus
--[ ]Skenaariotesti
+-[ ] Mustalaatikko
+-[ ] Lasilaatikko
+-[ ] Yksikkötestaus
+-[ ] "Mokkaus"
+-[ ] Oraakkeli
+-[ ] Liiketoimintavaatimus
+-[ ] Loppukäyttäjä
+-[ ] Hyväksyntätesti
+-[ ] Integraatiotestaus
+-[ ] Systeemitestaus
+-[ ] Toiminnallinen testi
+-[ ] Ei-Toiminnallinen testi (Paratoiminnallinen?)
+-[ ] Suorituskykytesti
+-[ ] Luotettavuustesti
+-[ ] Hyväksyntä kriteeri
+-[ ] Tarkistuslista
+-[ ] Lopputilanne
+-[ ] Tavoitetila
+-[ ] Exploratiivinen testaus
+-[ ] Testiautomaatio
+-[ ] Regressiotestaus
+-[ ] Riskipohjainen testaus
+-[ ] Skenaariotesti
 
 
 
