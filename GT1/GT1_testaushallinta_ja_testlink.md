@@ -3,7 +3,7 @@
 
 ### Tehtäväkuvaus:
 
-Ryhmätyön tavoitteena on pysytyttää testaushallinnan pohjaksi Testlink-työkalu ja integroida siihen ryhmä valitsema vikatietokanta. Henkilökohtaisessa tehtävässä (PT1) tuotettuja testejä voidaan käyttää aineistona ja niiden avulla tutustutaan export/import toimintoon. Jokainen ryhmän jäsen siirtää omat testitapauksensa demo järjestelmään.
+Ryhmätyön tavoitteena on pysytyttää testaushallinnan pohjaksi Testlink-työkalu ja integroida myöhemmin siihen ryhmän valitsema vikatietokanta. Henkilökohtaisessa tehtävässä (PT1) tuotettuja testejä voidaan käyttää aineistona ja niiden avulla tutustutaan export/import toimintoon. Jokainen ryhmän jäsen siirtää omat testitapauksensa demo järjestelmään.
 Jokainen ryhmän jäsen tuottaa oman testauskokonaisuuden "Test Suite" ja tarvittaessa on valmiina esittelemään sen ohjaajalle.
 
 
