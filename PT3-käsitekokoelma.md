@@ -1,4 +1,4 @@
-## Tärkeimmät käsitteet (25 kpl), joita testaajaksi opiskelevan tulee kurssin jälkeen tuntea... (saattaa muuttua palautteen perusteella)
+## Tärkeimmät valitsemani käsitteet (25 kpl), joita testausta opiskelevan tulee kurssin jälkeen tuntea... (saattaa muuttua palautteen perusteella)
 
 Ehdotus 1:
 
