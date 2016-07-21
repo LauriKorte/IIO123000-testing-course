@@ -9,7 +9,7 @@
 
 | *Aihe* | *Nimi & Linkki* | *tekijä* |
 | :--------: | :-------: | :-----: |
-| Ohjelmistotestaus | [Ohjelmistotestaus](https://janet.finna.fi/Record/janet.240976) |![](http://www.ellibs.com/sites/default/files/imagecache/product/bookcover_978-952-5912-99-9.jpg) |
+| Ohjelmistotestaus | [Ohjelmistotestaus](https://janet.finna.fi/Record/janet.240976) |![](http://www.ellibs.com/sites/default/files/imagecache/product/bookcover_978-952-5912-99-9.jpg) | <img alt="" height="176" src="https://www.booky.fi/image.php?id=9789521408502&size=small" width="120" /> |
 | Lessons learned in software testing | [Linkki](https://janet.finna.fi/Search/Results?lookfor=cem+kaner) | Cem Kaner   | 
 
 
