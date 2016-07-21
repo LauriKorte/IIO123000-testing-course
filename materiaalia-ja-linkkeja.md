@@ -26,8 +26,8 @@ Työvälineitä
 
 ## Kiinnostavia henkilöitä 
 
-*  [Maaret Pyhäjärvi](http://visible-quality.blogspot.fi/ https://www.linkedin.com/in/maaret)
 *  [Cem Kaner](http://kaner.com/ | http://www.youtube.com/watch?v=2g4EqP57l7I&list=PL1C98945CECC21E22)
+*  [Maaret Pyhäjärvi](http://visible-quality.blogspot.fi/)
 *  [James Bach](http://www.satisfice.com/ | http://www.youtube.com/watch?v=3FTwaojNkXw)
 *  [Janet Gregory](http://janetgregory.ca/)
 *  [Lisa Crispin](http://www.youtube.com/watch?v=tbOKe9WpnRw)
