@@ -35,6 +35,10 @@
 * [Cem Kanner BBST](https://www.youtube.com/user/TestingEducation/videos)
 * [BBST Testing Course](http://www.testingeducation.org/BBST/foundations/)
 
+## International Software Testing Qualification Board
+
+* [ISTQB materiaalit](http://www.istqb.org/downloads/finish/52/138.html)
+
 ## Guru 99
 
 * [Gurun materiaalit](http://www.guru99.com/)
