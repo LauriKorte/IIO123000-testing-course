@@ -53,6 +53,16 @@
 
 ## Systeemitestaus
 
+* Toiminnallisuuksien testaus
+* Suorityskyky
+* Käytettävyys
+* Tietoturva
+
+
+## Integraatiotestaus
+
+
+* Mocking
 
 ## Yksikkötestaus
 
