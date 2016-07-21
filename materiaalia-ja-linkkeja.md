@@ -45,11 +45,11 @@
 * [Unit Testing](http://stackoverflow.com/questions/67299/is-unit-testing-worth-the-effort)
 * [How to Write Clean, Testable Code, Misco Hevery](https://www.youtube.com/watch?v=XcT4yYu_TTs)
 
-## Kiinnostavia henkilöitä 
+## Hyvä tuntea :)
 
-*  [Cem Kaner](http://kaner.com/ | http://www.youtube.com/watch?v=2g4EqP57l7I&list=PL1C98945CECC21E22)
+*  [Cem Kaner](http://www.youtube.com/watch?v=2g4EqP57l7I&list=PL1C98945CECC21E22)
 *  [Maaret Pyhäjärvi](http://visible-quality.blogspot.fi/)
-*  [James Bach](http://www.satisfice.com/ | http://www.youtube.com/watch?v=3FTwaojNkXw)
+*  [James Bach](http://www.youtube.com/watch?v=3FTwaojNkXw)
 *  [Janet Gregory](http://janetgregory.ca/)
 *  [Lisa Crispin](http://www.youtube.com/watch?v=tbOKe9WpnRw)
 *  [Elisabeth Hendrickson](http://www.youtube.com/watch?v=bqrOnIECCSg)
