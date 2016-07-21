@@ -29,7 +29,13 @@
 *  [Finnish Software Testing Board (FiSTB)](http://www.fistb.fi/#!)
 
 
+## Tärkeitä..
+
+http://www.satisfice.com/
+
 ##  Testaus
+
+
 
 * [Master Test Plan](http://qablog.practitest.com/2008/03/master-test-plan-the-strategic-side-of-testing/)
 * [You are not done yet!](http://www.thebraidytester.com/downloads/YouAreNotDoneYet.pdf)
