@@ -106,17 +106,15 @@
 
 ## Standardeja, joita saattaa olla hyvä tietää olevan
 
-  * [IEEE 610 IEEE 610.12:1990. Standard Glossary of Software Engineering Terminology.]()
-  * [IEEE 829 IEEE 829:1998. Standard for Software Test Documentation](http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?reload=true&punumber=4578271)
+  * [IEEE 610 IEEE 610.12:1990. Standard Glossary of Software Engineering Terminology.](https://standards.ieee.org/findstds/standard/610.12-1990.html)
+  * [IEEE 829 IEEE 829:1998. Standard for Software Test Documentation](https://standards.ieee.org/findstds/standard/829-1998.html)
   * [IEEE 1008 IEEE 1008:1993. Standard for Software Unit Testing](http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=2599)
   * [IEEE 1028 IEEE 1028:1997. Standard for Software Reviews and Audits](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4601584)
   * [IEEE 1044 IEEE 1044:1993. Standard Classification for Software Anomalies](https://standards.ieee.org/findstds/standard/1044-2009.html)
   * [ISO 9126 ISO/IEC 9126-1:2001. Software Engineering – Software Product Quality – Part 1: Quality
-characteristics and sub-characteristics ]()
-  * [ISO 12207 ISO/IEC 12207:1995. Information Technology – Software Lifecycle Processes ]()
+characteristics and sub-characteristics ](https://en.wikipedia.org/wiki/ISO/IEC_9126)
  
-
-## Esimerkki standardista, joka saattaa vaikuttaa..
+## Esimerkki standardista, joka joka saattaa vaatia testaukselta enemmän..
 
 * [DO-178b DO-178B:1992. Software Considerations in Airborne Systems and Equipment Certification,
 Requirements and Technical Concepts for Aviation (RTCA SC167)]()
