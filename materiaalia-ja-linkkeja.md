@@ -31,6 +31,7 @@
 
 ## Testing education and BBST
 
+* [What is a good Test](http://www.kaner.com/pdfs/GoodTest.pdf)
 * [Cem Kanner BBST](https://www.youtube.com/user/TestingEducation/videos)
 
 ## Guru 99
@@ -38,13 +39,23 @@
 * [Gurun materiaalit](http://www.guru99.com/)
 
 
-##  Testaus
+##  Gurut ja konsultit
 
 * http://www.satisfice.com/
+* [Ohjelmistotestaus.fi](http://ohjelmistotestaus.fi/)
 * [Master Test Plan](http://qablog.practitest.com/2008/03/master-test-plan-the-strategic-side-of-testing/)
 * [You are not done yet!](http://www.thebraidytester.com/downloads/YouAreNotDoneYet.pdf)
-* [Ohjelmistotestaus.fi](http://ohjelmistotestaus.fi/)
-* [What is a good Test](http://www.kaner.com/pdfs/GoodTest.pdf)
+
+## Strategia etc.
+
+* [Master Test Plan](http://qablog.practitest.com/2008/03/master-test-plan-the-strategic-side-of-testing/)
+
+
+## Systeemitestaus
+
+
+## Yksikkötestaus
+
 * [Unit Testing](http://stackoverflow.com/questions/67299/is-unit-testing-worth-the-effort)
 * [How to Write Clean, Testable Code, Misco Hevery](https://www.youtube.com/watch?v=XcT4yYu_TTs)
 
@@ -57,17 +68,11 @@
 *  [Stickyminds](http://www.stickyminds.com/)
 *  [Finnish Software Testing Board (FiSTB)](http://www.fistb.fi/#!)
 
-## sekalaista
 
-* [Master Test Plan](http://qablog.practitest.com/2008/03/master-test-plan-the-strategic-side-of-testing/)
-* [You are not done yet!](http://www.thebraidytester.com/downloads/YouAreNotDoneYet.pdf)
 * [Ohjelmistotestaus.fi](http://ohjelmistotestaus.fi/)
-* [What is a good Test](http://www.kaner.com/pdfs/GoodTest.pdf)
-* [Unit Testing](http://stackoverflow.com/questions/67299/is-unit-testing-worth-the-effort)
-* [How to Write Clean, Testable Code, Misco Hevery](https://www.youtube.com/watch?v=XcT4yYu_TTs)
 
 
-## Hyvä tuntea :)
+## Henkilöitä, joita on hyvä tuntea :)
 
 *  [Cem Kaner](http://www.youtube.com/watch?v=2g4EqP57l7I&list=PL1C98945CECC21E22)
 *  [Maaret Pyhäjärvi](http://visible-quality.blogspot.fi/)
