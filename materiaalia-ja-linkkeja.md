@@ -29,9 +29,13 @@
 *  [Finnish Software Testing Board (FiSTB)](http://www.fistb.fi/#!)
 
 
-## Tärkeitä..
+## Testing education and BBST
 
 * [Cem Kanner BBST](https://www.youtube.com/user/TestingEducation/videos)
+
+## Guru 99
+
+* [Gurun materiaalit](http://www.guru99.com/)
 
 
 ##  Testaus
