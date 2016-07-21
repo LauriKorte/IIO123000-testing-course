@@ -117,5 +117,5 @@ characteristics and sub-characteristics ](https://en.wikipedia.org/wiki/ISO/IEC_
 ## Esimerkki standardista, joka joka saattaa vaatia testaukselta enemmän..
 
 * [DO-178b DO-178B:1992. Software Considerations in Airborne Systems and Equipment Certification,
-Requirements and Technical Concepts for Aviation (RTCA SC167)]()
+Requirements and Technical Concepts for Aviation (RTCA SC167)](https://en.wikipedia.org/wiki/DO-178B)
 * 
