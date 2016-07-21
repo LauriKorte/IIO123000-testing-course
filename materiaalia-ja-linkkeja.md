@@ -31,12 +31,13 @@
 
 ## Tärkeitä..
 
-http://www.satisfice.com/
+* [Cem Kanner BBST](https://www.youtube.com/user/TestingEducation/videos)
+
 
 ##  Testaus
 
 
-
+* http://www.satisfice.com/
 * [Master Test Plan](http://qablog.practitest.com/2008/03/master-test-plan-the-strategic-side-of-testing/)
 * [You are not done yet!](http://www.thebraidytester.com/downloads/YouAreNotDoneYet.pdf)
 * [Ohjelmistotestaus.fi](http://ohjelmistotestaus.fi/)
