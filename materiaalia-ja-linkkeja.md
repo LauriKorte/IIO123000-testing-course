@@ -7,10 +7,10 @@
 
 
 
-| *Aihe* | *Nimi & Linkki* | *Muuta* |
+| *Aihe* | *Nimi & Linkki* | *tekijä* |
 | :--------: | :-------: | :-----: |
 | Ohjelmistotestaus | [Ohjelmistotestaus](http://ekirjasto.kirjastot.fi/en/ekirjat/ohjelmistotestauksen-kasikirja) |![](http://www.ellibs.com/sites/default/files/imagecache/product/bookcover_978-952-5912-99-9.jpg) |
-| - | - | - | 
+| Lessons learned in software testing | [Linkki](https://janet.finna.fi/Search/Results?lookfor=cem+kaner) | Cem Kaner   | 
 
 
 
