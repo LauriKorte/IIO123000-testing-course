@@ -1,4 +1,17 @@
+
+
 ## Testaus 
+
+# KIRJAT
+
+
+
+| *Aihe* | *Nimi & Linkki* | *Muuta* |
+| :--------: | :-------: | :-----: |
+| Ohjelmistotestaus | [Ohjelmistotestaus](http://ekirjasto.kirjastot.fi/en/ekirjat/ohjelmistotestauksen-kasikirja) |![](http://www.ellibs.com/sites/default/files/imagecache/product/bookcover_978-952-5912-99-9.jpg) |
+| - | - | - | 
+
+
 
 Työvälineitä
 
