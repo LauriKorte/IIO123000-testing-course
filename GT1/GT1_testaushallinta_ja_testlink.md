@@ -1,4 +1,4 @@
-### Harjoitus:  Testaushallinta ja vikatietokanta 
+### Harjoitus:  Testaushallintatyökalun asennus
 
 
 ### Tehtäväkuvaus:
