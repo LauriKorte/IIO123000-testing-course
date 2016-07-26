@@ -13,6 +13,7 @@ Jokainen ryhmän jäsen kokoaa oman testisuunnitelman (Test Suite) ja on valmiin
 * http://testlink.org/
 * Bugzilla.org
 * Manitis.org
+* Jira (Attlassian)
 * [Muut](https://github.com/TestLinkOpenSourceTRMS/testlink-code/tree/testlink_1_9/lib/issuetrackerintegration)
 
 
