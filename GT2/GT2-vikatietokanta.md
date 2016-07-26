@@ -7,6 +7,7 @@ Integraatio tehdään käyttäen Testlink-työkalun issuetracker integration omi
 
 Tämä tarkoittaa käytännössä sitä, että jos testitapaus on suoritettu (ja siinä ilmenee vika) voidaan testiraporttiin linkittää vikaraportti. 
 
+![](http://i.imgur.com/6aFA684.png)
 
 
 Henkilökohtaisessa tehtävässä (PT1) tuotettuja testejä voidaan käyttää aineistona ja niiden avulla tutustutaan Testlinkin export/import toimintoon. Jokainen ryhmän jäsen siirtää omat testitapauksensa demo järjestelmään. 
