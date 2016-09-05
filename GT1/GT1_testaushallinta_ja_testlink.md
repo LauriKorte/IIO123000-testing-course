@@ -16,12 +16,20 @@ Ryhmä pystyttää oman koneen käyttäen Linux-virtuaalikonetta. Kone voi sijai
 * 2-4 GB muisti
 * Php5 + MySQL + Apache
 
-HUOM! Muista pitää tallella kone image, koska siihen on tarkoitus asentaa myöhemmin harjoituksessa [GT2](https://github.com/JAMK-IT/IIO123000-testing-course/tree/master/GT2) vikatietokanta. 
+HUOM! Muista pitää tallella kone image, koska siihen on tarkoitus asentaa myöhemmin harjoituksessa [GT2](https://github.com/JAMK-IT/IIO123000-testing-course/tree/master/GT2). 
 
-Ideoita:
 
-Henkilökohtaisessa tehtävässä (PT1) tuotettuja testejä voidaan käyttää aineistona ja niiden avulla tutustutaan export/import toimintoon. Jokainen ryhmän jäsen siirtää omat testitapauksensa demo järjestelmään.
-Jokainen ryhmän jäsen tuottaa oman testauskokonaisuuden "Test Suite" ja tarvittaessa on valmiina esittelemään sen ohjaajalle.
+Mitä pitää tehdä:
+
+* Jokainen ryhmän jäsen siirtää ryhmän omaan testlink-instanssiin aiemmin suunniteltuja testitapauksia käyttäen Testlinkin export/import-toimintoa
+* Testeistä koostetaan erilaisia testisuunnitelmia (Test Suite), jotka nimetään sopivalla tavalla.
+* Ryhmä kokeilee muokata ja järjestää testitapaukset eri osiin "testitapaus"-puuta
+* Kokeillaan tuottaa pdf raportti testitapauksista
+
+Huomioita / ideoita:
+
+Henkilökohtaisessa tehtävässä [PT1](https://github.com/JAMK-IT/IIO123000-testing-course/tree/master/PT1) tuotettuja testejä voidaan käyttää runkona ja niiden avulla tutustutaan export/import toimintoon. Jokainen ryhmän jäsen suunnittelemansa testitapaukset ko. järjestelmään.
+
 
 ![](http://i.imgur.com/Ic7cHFi.png)
 
