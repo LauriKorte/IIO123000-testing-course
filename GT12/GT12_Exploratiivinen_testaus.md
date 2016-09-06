@@ -10,6 +10,7 @@ Testikoheeseen tutustuminen tutkivalla asenteella :), eli tutustutaan palveluun 
 * Liikkuessaan palvelussa kirjataan löydetyt ominaisuudet / tilat Mindmap-muotoon
 * Apuna voi käyttää paperia, mutta erityisen hyödyllistä on kokeilla [mindmup-työkalua!](https://www.mindmup.com/)
 * Jokainen palauttaa luomansa Mindmap-kuvan (jpg) optiman palautuskansioon (GT12)
+* Kuvan nimeämisessä ei kannata käyttää omaa, koska kuvia pyritään tarkastelemaan anonyymeinä.
 
 ### Lähteet ja linkit
 
@@ -19,10 +20,10 @@ Testikoheeseen tutustuminen tutkivalla asenteella :), eli tutustutaan palveluun 
 
 ### Tavoite:
 
-* Oppia jotain jännää...
+* Hahmottaa testikohde
 
 
 
 ### Arviointi:
 
-* Palautetaan opettajalle 
+* Palautetaan opettajalle optiman GT12 kansioon
