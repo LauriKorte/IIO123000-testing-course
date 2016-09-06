@@ -1,15 +1,9 @@
 ## Henkilökohtainen harjoitus/tehtävä
 
-Tässä on kokoelma eri käsitteitä ja aiheita liittyen testaukseen. Tutustu käsitteisiin ja etsi niihin liittyen tietoa esim. kurssin materiaaleista ja tietenkin googlen avulla.
-Tulosta sivu kopiona paperille ja merkitse kaikki, joihin olet perehtynyt
+tässä on kokoelma tärkeiksi kokemiani käsitteitä/aihe-alueita (~30 kpl), joita testausta opiskelevan tulee kurssin jälkeen tunnistaa. Tutustu käsitteisiin ja etsi niihin liittyen tietoa esim. kurssin materiaaleista ja tietenkin googlen avulla.
+Tulosta sivu kopiona tarvittaessa paperille ja merkitse kaikki, joihin olet perehtynyt. Tehtävää ei tarvitse palauttaa, mutta sen tehtävä on tarkoitus valmistella sinua kokeeseen..
 
-
-
-Tehtävää ei tarvitse palauttaa, mutta sen tehtävä on tarkoitus valmistella sinua kokeeseen..
-
-Eli tässä on kokoelma tärkeiksi kokemiani käsitteitä/aihe-alueita (~30 kpl), joita testausta opiskelevan tulee kurssin jälkeen tunnistaa... 
-
-(saattaa muuttua saadun palautteen perusteella, mutta aloitetaan tästä!)
+(Sisältö voi muuttua kurssin aikana eri palautteiden perusteella, mutta aloitetaan tästä!)
 
 
 Ehdotus 6.9.2016:
