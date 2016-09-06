@@ -1,22 +1,18 @@
-### Harjoitus: Robot Framework-testityökalun käyttö
+### Harjoitus: fMBT ja mallipohjainen testausautomaatio 
 
-
-* Lorem Ipsum
+TBD
 
 
 ### Tehtäväkuvaus:
 
-* Lorem Ipsum
 
 
 ### Lähteet ja linkit
 
-* http://google.com
 
 
 ### Tavoite:
 
-* Oppia jotain jännää...
 
 
 
