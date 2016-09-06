@@ -21,7 +21,7 @@ HUOM! Muista säilyttää koneen image-tiedostoa, koska siitä on hyvä käyttä
 
 Mitä pitää tehdä:
 
-* Ryhmä asentaa Testlink 1.9.14 (source forgesta) työkalun pyörimään omalle koneelle (valinnan mukaan)
+* Ryhmä asentaa Testlink 1.9.14 (source forgesta) työkalun pyörimään omalle virtuaalikoneelle (valinnan mukaan)
 * Tämän instanssin avulla voi sotkea rauhassa ja säätää
 * Jokainen ryhmän jäsen siirtää ryhmän omaan testlink-instanssiin aiemmin suunniteltuja testitapauksia käyttäen Testlinkin export/import-toimintoa. testitapauksia löytyy tämän tehtävän kansiosta.
 
