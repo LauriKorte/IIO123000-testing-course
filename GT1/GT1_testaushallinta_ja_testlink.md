@@ -16,19 +16,28 @@ Ryhmä pystyttää oman koneen käyttäen Linux-virtuaalikonetta. Kone voi sijai
 * 2-4 GB muisti
 * Php5 + MySQL + Apache
 
-HUOM! Muista pitää tallella kone image, koska siihen on tarkoitus asentaa myöhemmin harjoituksessa [GT2](https://github.com/JAMK-IT/IIO123000-testing-course/tree/master/GT2). 
+HUOM! Muista säilyttää koneen image-tiedostoa, koska siitä on hyvä käyttää pohjana myöhemmin harjoituksessa [GT2](https://github.com/JAMK-IT/IIO123000-testing-course/tree/master/GT2). 
 
 
 Mitä pitää tehdä:
 
-* Jokainen ryhmän jäsen siirtää ryhmän omaan testlink-instanssiin aiemmin suunniteltuja testitapauksia käyttäen Testlinkin export/import-toimintoa
-* Testeistä koostetaan erilaisia testisuunnitelmia (Test Suite), jotka nimetään sopivalla tavalla.
-* Ryhmä kokeilee muokata ja järjestää testitapaukset eri osiin "testitapaus"-puuta
-* Kokeillaan tuottaa pdf raportti testitapauksista
+* Ryhmä asentaa Testlink 1.9.14 (source forgesta) työkalun pyörimään omalle koneelle (valinnan mukaan)
+* Tämän instanssin avulla voi sotkea rauhassa ja säätää
+* Jokainen ryhmän jäsen siirtää ryhmän omaan testlink-instanssiin aiemmin suunniteltuja testitapauksia käyttäen Testlinkin export/import-toimintoa. testitapauksia löytyy tämän tehtävän kansiosta.
+
+Käydään ryhmässä läpi seuraavat toiminnot:
+
+* Uuden testin luonti
+* Luodaan uusi "Test Suite", joka vastaa testisuunnitelmaa
+* Lisätään testisuunnitelmaan uusia testitapauksia
+* Määritellään testikohteen versio numero "build"
+* Muokata ja tehdään uusia versioita testitapauksista 
+* Tuotetaan testisuunnitelmasta word/pdf versio
+* 
 
 Huomioita / ideoita:
 
-Henkilökohtaisessa tehtävässä [PT1](https://github.com/JAMK-IT/IIO123000-testing-course/tree/master/PT1) tuotettuja testejä voidaan käyttää runkona ja niiden avulla tutustutaan export/import toimintoon. Jokainen ryhmän jäsen suunnittelemansa testitapaukset ko. järjestelmään.
+Henkilökohtaisessa tehtävässä [PT1](https://github.com/JAMK-IT/IIO123000-testing-course/tree/master/PT1) tuotettuja testejä voi myös käyttää runkona ja niiden avulla tutustutaan export/import toimintoon. 
 
 
 ![](http://i.imgur.com/Ic7cHFi.png)
