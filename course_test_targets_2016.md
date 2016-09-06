@@ -3,10 +3,13 @@
 
 Exploratory testing:
 
-beta.suomi.fi
+https://beta.suomi.fi/
 
 
-SUT Contriboard 
+Testisuunnittelu 
 
-http://contriboard.n4sjamk.fi
+https://beta.suomi.fi
 
+
+Test automation
+Robot Framework
