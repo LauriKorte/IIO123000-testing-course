@@ -4,18 +4,20 @@ Esitelmä
 
 ### Tehtäväkuvaus:
 
-Ryhmä tutustuu viiteen heitä kiinnostavaan testaustyövälineeseen
-Tuloksista ja huomioista laaditaan esityksen otsikkona "Modernit testaustyökalut" 
+Ryhmä vertailee kolmea vapaasti valitsemaansa testaustyövälinettä, jotka soveltuvat samaan tehtävään.
+Tuloksista ja huomioista laaditaan presentaatio esityksen otsikkona "Modernit testaustyökalut" 
 
-Esityksen laajuus on oltava riittävä Min 20 Max 35 sivua
-Esityksen kesto Min 15 min 
-Esitelmä pidetään luokassa sovittuna ajankohtanan
+* Esityksessä käydään läpi testityövälineen käyttötarkoitus ja sovelluskohteet
+* Vertaillaan perustoiminnallisuuksia
+* Esityksen laajuus on oltava "tolkku" min 15 sivua ja max 25 sivua
+* Esityksen kesto Min 10 min 
+* Esitelmä pidetään luokassa sovittuna ajankohtana
 
 
 ### Lähteet ja linkit
 
-https://en.wikipedia.org/wiki/Category:Software_testing_tools
-
+* https://en.wikipedia.org/wiki/Category:Software_testing_tools
+* Google!
 
 ### Tavoite:
 
