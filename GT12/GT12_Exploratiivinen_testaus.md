@@ -1,19 +1,20 @@
 ### Harjoitus:
 
-Jokainen ryhmän jäsen tutustuu uuteen kansalaisen palveluun osoitteessa * Lorem Ipsum
-
-
+Testikoheeseen tutustuminen tutkivalla asenteella :), eli tutustutaan palveluun käyttäen apuna mindmap-tekniikkaa.
+[(Tämän menetelmän esitteli Maaret Pyhäjärvi)](https://github.com/N4SJAMK/teamboard-test/wiki/expoloratory-testing-session) 
 
 
 ### Tehtäväkuvaus:
 
-* Lorem Ipsum
-
+* Jokainen ryhmän jäsen tutustuu uuteen kansalaisen palveluun osoitteessa http://beta.suomi.fi
+* Liikkuessaan palvelussa kirjataan eri tilat mindmap muotoon
+* Apuna voi käyttää [mindmup-työkalua!](https://www.mindmup.com/)
+* Jokainen palauttaa oman mindmap kuvansa optiman palautuskansioon (GT12)
 
 ### Lähteet ja linkit
 
-* http://google.com
-
+* https://beta.suomi.fi
+* https://en.wikipedia.org/wiki/Mind_map
 
 ### Tavoite:
 
