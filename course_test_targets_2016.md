@@ -1,6 +1,10 @@
 ## Test Targets
 
 
+Exploratory testing:
+
+beta.suomi.fi
+
 
 SUT Contriboard 
 
