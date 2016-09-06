@@ -1,22 +1,24 @@
 ### Harjoitus: Test bench technlogys VAGRANT & DOCKER
 
+Ryhmä tutustuu moderniin testiautomaation, joka on toteutettu käyttäen docker teknologiaa
 
-* Lorem Ipsum
-
+Tässä vaiheessa harjoitus on vielä raakile!
 
 ### Tehtäväkuvaus:
 
-* Lorem Ipsum
+
+Ryhmä käynnistää Rancher-alustalle testikohteen (SUT) ja ajaa testi tapauksia sitä vasten
 
 
 ### Lähteet ja linkit
 
-* http://google.com
+* rancher.com
+* Docker.com
 
 
 ### Tavoite:
 
-* Oppia jotain jännää...
+* Kokeillaan ja opitaan ehkä jotain!
 
 
 
