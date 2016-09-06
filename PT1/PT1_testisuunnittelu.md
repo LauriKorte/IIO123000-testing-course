@@ -30,10 +30,13 @@ ja ne viedään PDF muotoon, joka palautetaan ohjaajalle
 
 ### Tavoite:
 
-* Oppia jotain jännää...
-
+* Oppia suunnittelemaan testejä
 
 
 ### Arviointi:
 
-* Palautetaan opettajalle 
+* Testit yksinkertaisia, niitä on minimäärä
+* Testit mielekkäitä ja niillä on tarkoitus 
+* Testit pohjautuvat käyttäjä profiileihin ja niillä on tarkoitus
+* Testi suunitelma on 
+
