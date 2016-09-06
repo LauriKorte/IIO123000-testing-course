@@ -1,4 +1,16 @@
-## Tärkeimmät valitsemani käsitteet ja aiheet (25 kpl), joita testausta opiskelevan tulee kurssin jälkeen tunnistaa... (saattaa muuttua palautteen perusteella)
+## Henkilökohtainen harjoitus/tehtävä
+
+Tässä on kokoelma eri käsitteitä ja aiheita liittyen testaukseen. Tutustu käsitteisiin ja etsi niihin liittyen tietoa esim. kurssin materiaaleista ja tietenkin googlen avulla.
+Tulosta sivu kopiona paperille ja merkitse kaikki, joihin olet perehtynyt
+
+
+
+Tehtävää ei tarvitse palauttaa, mutta sen tehtävä on tarkoitus valmistella sinua kokeeseen..
+
+
+## Tärkeimmät valitsemani käsitteet ja aiheet (25 kpl), joita testausta opiskelevan tulee kurssin jälkeen tunnistaa... 
+
+(saattaa muuttua palautteen perusteella)
 
 Ehdotus 1:
 
