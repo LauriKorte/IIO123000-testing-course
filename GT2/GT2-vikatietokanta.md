@@ -5,7 +5,7 @@
 Ryhmätyön tavoitteena on integroida aiemmin asennetun Testlink-työkaluun ryhmän valitsema vikatietokanta. 
 Integraatio tehdään käyttäen Testlink-työkalun issuetracker integration ominaisuutta. 
 
-Tämä tarkoittaa käytännössä sitä, että jos testitapaus on suoritettu (ja siinä ilmenee vika) voidaan testiraporttiin linkittää vikaraportti. 
+Käytännössä tämä tarkoittaa, että testitapausta ajettaessa löytyvät viat linkitetään testitulokseen. Kyseinen vikaraportti näkyy testaustuloksissa linkkinä. 
 
 ![](http://i.imgur.com/6aFA684.png)
 
