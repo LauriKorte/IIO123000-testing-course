@@ -1,17 +1,17 @@
 ### Harjoitus: Testitapauksien suunnittelu
 
-
-
-
 ### Tehtäväkuvaus:
 
 Jokainen kurssilainen palauttaa itsenäisen testisuunnitelman liittyen annettuun testauskohteeseen.
+
+Testauskohde tänä vuonna: http://beta.suomi.fi
 
 Testejä tulee laatia seuraavasti:
 
 *Hyväksyntätestit:*
 
-2 kpl Tärkeimpiin käyttötapauksiin liittyvää hyväksyntätestiä
+* 2 kpl Tärkeimpiin käyttötapauksiin liittyvää hyväksyntätestiä 
+
 
 *Järjestelmätestit:*
 
@@ -19,7 +19,7 @@ Testejä tulee laatia seuraavasti:
 * 2 kpl Ei-toiminnallista suorityskykytestiä
 * 1 kpl Ei-toiminnallista tietoturvatestiä
 
-Testit kirjoitettaan Kurssin aikana käytettävään Testlink-ympäristöön
+Testit kirjoitettaan Kurssin aikana käytettävään [Testlink-ympäristöön](http://146.185.132.189/testlink)
 ja ne viedään PDF muotoon, joka palautetaan ohjaajalle
 
 ### Lähteet ja linkit
@@ -35,8 +35,6 @@ ja ne viedään PDF muotoon, joka palautetaan ohjaajalle
 
 ### Arviointi:
 
-* Testit yksinkertaisia, niitä on minimäärä
-* Testit mielekkäitä ja niillä on tarkoitus 
-* Testit pohjautuvat käyttäjä profiileihin ja niillä on tarkoitus
-* Testi suunitelma on 
+Testejä ei saa kopioida!
+
 
