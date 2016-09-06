@@ -9,25 +9,26 @@ Kurssin tutustumiskohteena on suosittu Open Source-työkalu nimeltä Testlink.
 
 Ryhmä pystyttää oman koneen käyttäen Linux-virtuaalikonetta. Kone voi sijaita koulun labrakoneilla tai voitte käyttää luoda virtuaalikoneen omalle työasemalle.
 
-*Virtuaalikoneen speksit*
+*Tarvittavan virtuaalikoneen speksit*
 
 * Ubuntu 14.x-> Server/Desktop
 * 16GB levy
 * 2-4 GB muisti
 * Php5 + MySQL + Apache
 
-HUOM! Muista säilyttää koneen image-tiedostoa, koska siitä on hyvä käyttää pohjana myöhemmin harjoituksessa [GT2](https://github.com/JAMK-IT/IIO123000-testing-course/tree/master/GT2). 
+HUOM! Jos teet virtuaalikoneen kurssin aikaan, niin kannattaa säilyttää image-tiedosto, koska siitä voi käyttää pohjana myöhemmin harjoituksessa [GT2](https://github.com/JAMK-IT/IIO123000-testing-course/tree/master/GT2). 
 
 
 Mitä pitää tehdä:
 
+* Ryhmä tekee päätöksen minne kone asennetaan. (Ehdotus Digital Ocean/Amazon github packin voimalla) 
 * Ryhmä asentaa Testlink 1.9.14 (source forgesta) työkalun pyörimään omalle virtuaalikoneelle (valinnan mukaan)
-* Tämän instanssin avulla voi sotkea rauhassa ja säätää
+* Tämän instanssin avulla on tarkoitus sotkea rauhassa ja säätää
 * Jokainen ryhmän jäsen siirtää ryhmän omaan testlink-instanssiin aiemmin suunniteltuja testitapauksia käyttäen Testlinkin export/import-toimintoa. testitapauksia löytyy tämän tehtävän kansiosta.
 
 Käydään ryhmässä läpi seuraavat toiminnot:
 
-* Uuden testin luonti
+* Uuden testitapauksen luonti tuotteelle
 * Luodaan uusi "Test Suite", joka vastaa testisuunnitelmaa
 * Lisätään testisuunnitelmaan uusia testitapauksia
 * Määritellään testikohteen versio numero "build"
