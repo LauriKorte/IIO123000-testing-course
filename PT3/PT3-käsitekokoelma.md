@@ -3,31 +3,31 @@
 Ehdotus 1:
 
 
-- [ ] Mustalaatikko
-- [ ] Lasilaatikko
-- [ ] Yksikkötestaus
-- [ ] "Mokkaus"
-- [ ] Oraakkeli
-- [ ] Liiketoimintavaatimus
-- [ ] Loppukäyttäjä
-- [ ] Hyväksyntätesti
-- [ ] Integraatiotestaus
-- [ ] Systeemitestaus
-- [ ] Toiminnallinen testi
-- [ ] Ei-Toiminnallinen testi (Paratoiminnallinen?)
-- [ ] Suorituskykytesti
-- [ ] Luotettavuustesti
-- [ ] Hyväksyntä kriteeri
-- [ ] Tarkistuslista
-- [ ] Lopputilanne
-- [ ] Tavoitetila
-- [ ] Exploratiivinen testaus
-- [ ] Testiautomaatio
-- [ ] Regressiotestaus
-- [ ] Riskipohjainen testaus
-- [ ] Skenaariotesti
-- [ ] Käyttötapaus
-- [ ] Prioriteetti
+- [ ] Mustalaatikko / Black Box testing
+- [ ] Lasilaatikko / White Box testing
+- [ ] Yksikkötestaus / Unit testing
+- [ ] "Mokkaus" / Inteface Mockup
+- [ ] Oraakkeli / Test Oracle 
+- [ ] Liiketoimintavaatimus / Business Requirement
+- [ ] Loppukäyttäjä / End User
+- [ ] Hyväksyntätesti / Acceptance Test
+- [ ] Integraatiotestaus / Integration test
+- [ ] Systeemitestaus / System Testing
+- [ ] Toiminnallinen testi / Functional test
+- [ ] Ei-Toiminnallinen testi (Paratoiminnallinen?) / Non-Functional test
+- [ ] Suorituskykytesti / Performance testing 
+- [ ] Luotettavuustesti / Reliability testing
+- [ ] Hyväksyntäkriteeri / Acceptance Criteria
+- [ ] Tarkistuslista / Checklist
+- [ ] Lopputilanne / End State
+- [ ] Exploratiivinen testaus / Explorative testing
+- [ ] Testiautomaatio / Test automation
+- [ ] Regressiotestaus / Regression testing
+- [ ] Riskipohjainen testaus / Risk based testing
+- [ ] Skenaariotesti / Scenario testing
+- [ ] Käyttötapaus / Use Case
+- [ ] Testitapaus / Test Case
+- [ ] Testisuunnitelma / Test Plan
 
 Lisää ?
 
