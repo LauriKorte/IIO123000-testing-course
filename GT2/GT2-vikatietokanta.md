@@ -9,11 +9,6 @@ Käytännössä tämä tarkoittaa, että testitapausta ajettaessa löytyvät via
 
 ![](http://i.imgur.com/6aFA684.png)
 
-
-Henkilökohtaisessa tehtävässä (PT1) tuotettuja testejä voidaan käyttää aineistona ja niiden avulla tutustutaan Testlinkin export/import toimintoon. Jokainen ryhmän jäsen siirtää omat testitapauksensa demo järjestelmään. 
-Jokainen ryhmän jäsen kokoaa oman testisuunnitelman (Test Suite) ja on valmiina esittelemään sen ohjaajalle.
-
-
 ### Lähteet ja linkit
 
 * http://testlink.org/
@@ -25,10 +20,8 @@ Jokainen ryhmän jäsen kokoaa oman testisuunnitelman (Test Suite) ja on valmiin
 
 ### Tavoite:
 
-Testlink-työkalu on integroitu yhteen valitun vikatietokannan kanssa
+Testlink-työkalu on integroitu yhteen ryhmän valitseman vikatietokannan kanssa
 Opiskelija ymmärtää mitä tarkoitetaan jäljitettävyydellä (Traceability) suoritetun testitapauksen ja vikaraportin välillä
-Opiskelija osaa siirtää aiemmin suunniteltuja testejä Testlink muotoon
-
 
 
 ### Arviointi:
