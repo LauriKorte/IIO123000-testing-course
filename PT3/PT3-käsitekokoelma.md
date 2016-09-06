@@ -1,4 +1,4 @@
-## Tärkeimmät valitsemani käsitteet (25 kpl), joita testausta opiskelevan tulee kurssin jälkeen tuntea... (saattaa muuttua palautteen perusteella)
+## Tärkeimmät valitsemani käsitteet ja aiheet (25 kpl), joita testausta opiskelevan tulee kurssin jälkeen tunnistaa... (saattaa muuttua palautteen perusteella)
 
 Ehdotus 1:
 
@@ -6,7 +6,7 @@ Ehdotus 1:
 - [ ] Mustalaatikko / Black Box testing
 - [ ] Lasilaatikko / White Box testing
 - [ ] Yksikkötestaus / Unit testing
-- [ ] "Mokkaus" / Inteface Mockup
+- [ ] Rajapinnan "Mokkaus" / Inteface Mocking / stub
 - [ ] Oraakkeli / Test Oracle 
 - [ ] Liiketoimintavaatimus / Business Requirement
 - [ ] Loppukäyttäjä / End User
