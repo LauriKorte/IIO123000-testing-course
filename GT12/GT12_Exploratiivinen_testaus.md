@@ -1,8 +1,8 @@
 ### Harjoitus:
 
+Jokainen ryhmän jäsen tutustuu uuteen kansalaisen palveluun osoitteessa * Lorem Ipsum
 
 
-* Lorem Ipsum
 
 
 ### Tehtäväkuvaus:
