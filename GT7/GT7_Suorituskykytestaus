@@ -1,14 +1,16 @@
-### Harjoitus:  Load Testing with Locust
+### Harjoitus:  Load Testing and stress testing with Locust
 
+Ryhmä suorittaa kuorimitustestausta käyttäen apuna Locust työkalua ja luo sillä kuormaa testikohteeseen.
 
-
-* Lorem Ipsum
+DRAFT!
 
 
 ### Tehtäväkuvaus:
 
-* Lorem Ipsum
-
+* Rancher pilveen käynnistetään testikohde SUT
+* Locust testipenkki aktivoidaan ja säädetään kuormitus
+* Ryhmän jäsen kokeilee käyttää testikohdetta samanaikaisesti 
+* Kuormaa lisätään ja etsitään murtumispiste
 
 ### Lähteet ja linkit
 
