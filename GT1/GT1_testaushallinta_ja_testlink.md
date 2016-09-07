@@ -36,6 +36,8 @@ Käydään ryhmässä läpi seuraavat toiminnot:
 * Tuotetaan testisuunnitelmasta word/pdf versio
 * 
 
+*HUOM! Tehtävän aikana tehdyt työvaiheet dokumentoidaan esim. wiki sivun muotoon. Tämä dokumentti pitää olla saatavilla luovutuksen yhteydessä*
+
 Huomioita / ideoita:
 
 Henkilökohtaisessa tehtävässä [PT1](https://github.com/JAMK-IT/IIO123000-testing-course/tree/master/PT1) tuotettuja testejä voi myös käyttää runkona ja niiden avulla tutustutaan export/import toimintoon. 
@@ -59,6 +61,6 @@ Testitapaus, testisuunnitelma, testauskierros ja raportointi
 
 ### Arviointi:
 
-Testausympäristö esitellään opettajalle  
+Ryhmä esittelee toimivan ratkaisun ja syntyneen dokumentaation ohjaajalle
 
 Hyväksytty/Hylätty
