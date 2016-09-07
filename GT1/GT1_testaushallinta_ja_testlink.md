@@ -28,6 +28,8 @@ Mitä pitää tehdä:
 
 Käydään ryhmässä läpi seuraavat toiminnot:
 
+Ohjeita löytyy [Guru99 materiaalista](http://www.guru99.com/testlink-tutorial-complete-guide.html)
+
 * Uuden testitapauksen luonti tuotteelle
 * Luodaan uusi "Test Suite", joka vastaa testisuunnitelmaa
 * Lisätään testisuunnitelmaan uusia testitapauksia
