@@ -19,7 +19,7 @@ Testejä tulee laatia seuraavasti:
 * 2 kpl Ei-toiminnallista suorityskykytestiä
 * 1 kpl Ei-toiminnallista tietoturvatestiä
 
-Testit talletetaan kurssin aikana käytettävään [Testlink-palveluun](http://146.185.132.189/testlink), josta ne tarvittaessa esitellään ohjaajalle henkilökohtaisesti.
+Testit talletetaan kurssin aikana käytettävään [Testlink-palveluun](http://146.185.132.189/testlink), josta ne palautettaessa esitellään ohjaajalle henkilökohtaisesti.
 
 ### Lähteet ja linkit
 
