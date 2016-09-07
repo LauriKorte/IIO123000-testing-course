@@ -2,8 +2,8 @@
 
 ### Tehtäväkuvaus:
 
-Ryhmätyön tavoitteena on integroida aiemmin asennetun Testlink-työkaluun ryhmän valitsema vikatietokanta. 
-Integraatio tehdään käyttäen Testlink-työkalun "Issue Tracker Management"-ominaisuutta. Tänä ominaisuuden avulla liitetään vikaraportointi osaksi testiraportointia 
+Ryhmätyön tavoitteena on asentaa ryhmä valitsema vikatietokanta (Defect Database) ja integroida se yhteen asennetuun Testlink-työkaluun. 
+Integraatio tehdään käyttäen Testlink-työkalun "Issue Tracker Management"-ominaisuutta. Tänä ominaisuuden avulla liitetään vikaraportointi "saumattomaksi" osaksi testiraportointia 
 
 Käytännössä tämä tarkoittaa, että testitapausta ajettaessa löytyvät viat linkitetään testitulokseen. Kyseinen vikaraportti näkyy testaustuloksissa linkkinä. 
 
