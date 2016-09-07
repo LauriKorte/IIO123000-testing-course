@@ -40,6 +40,9 @@ Ehdotus 7.9.2016:
 - [ ] Jatkuvaintegrointi  / Continuous Integration
 - [ ] Testaustyökalu / Testing Tool
 - [ ] User Story
+- [ ] Testikohteen konfiguraatio / Test Target Configuration
+- [ ] Versionhallinta / Version Control Management
+- [ ] Konfiguraatiohallinta / Configuration Management
 
 Muita huomioita!
 
