@@ -6,21 +6,22 @@ Tulosta sivu kopiona tarvittaessa paperille ja merkitse kaikki, joihin olet pere
 (Sisältö voi muuttua kurssin aikana eri palautteiden perusteella, mutta aloitetaan tästä!)
 
 
-Ehdotus 6.9.2016:
+Ehdotus 7.9.2016:
 
 
 - [ ] Mustalaatikko / Black Box testing
 - [ ] Lasilaatikko / White Box testing
 - [ ] Yksikkötestaus / Unit testing
-- [ ] Rajapinnan "Mokkaus" / Inteface Mocking / stub
-- [ ] Oraakkeli / Test Oracle 
+- [ ] Rajapinnan "Mokkaus" / Interface Mock/Stub
+- [ ] Testioraakkeli / Test Oracle 
 - [ ] Liiketoimintavaatimus / Business Requirement
 - [ ] Loppukäyttäjä / End User
-- [ ] Hyväksyntätesti / Acceptance Test
+- [ ] Koontipalvelin / Build Server
+- [ ] Hyväksyntätestaus / Acceptance Test
 - [ ] Integraatiotestaus / Integration test
 - [ ] Systeemitestaus / System Testing
 - [ ] Toiminnallinen testi / Functional test
-- [ ] Ei-Toiminnallinen testi (Paratoiminnallinen?) / Non-Functional test
+- [ ] Ei-toiminnallinen testaus (Paratoiminnallinen?) / Non-Functional testing
 - [ ] Suorituskykytesti / Performance testing 
 - [ ] Luotettavuustesti / Reliability testing
 - [ ] Hyväksyntäkriteeri / Acceptance Criteria
@@ -38,6 +39,7 @@ Ehdotus 6.9.2016:
 - [ ] SUT / System Under Test
 - [ ] Jatkuvaintegrointi  / Continuous Integration
 - [ ] Testaustyökalu / Testing Tool
+- [ ] User Story
 
 Muita huomioita!
 
