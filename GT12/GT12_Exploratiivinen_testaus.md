@@ -17,6 +17,7 @@ Testikohteeseen tutustuminen tutkivalla asenteella :), eli tutustutaan palveluun
 
 * https://beta.suomi.fi
 * https://en.wikipedia.org/wiki/Mind_map
+* https://en.wikipedia.org/wiki/Exploratory_testing
 * https://github.com/N4SJAMK/teamboard-test/wiki/expoloratory-testing-session
 
 ### Tavoite:
