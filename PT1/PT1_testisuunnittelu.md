@@ -4,7 +4,7 @@
 
 Jokainen kurssilainen palauttaa itsenäisen testisuunnitelman liittyen annettuun testauskohteeseen.
 
-Testauskohde tänä vuonna: http://beta.suomi.fi
+Testauskohde tänä vuonna: mICF-projektin tuotos (lisää myöhemmin)
 
 Testejä tulee laatia seuraavasti:
 
@@ -26,6 +26,7 @@ Testit talletetaan kurssin aikana käytettävään [Testlink-palveluun](http://1
 * [Cem Kaner: What is a good test case](http://www.kaner.com/pdfs/GoodTest.pdf)
 * [Matti Vuori: Ajatuksia testitapauksista ](https://drive.google.com/file/d/0B-hPgXTXfK9EbnNHODZsczR5NzQ/view)
 * [Ohjelmistotestaus.fi](https://ohjelmistotestaus.fi/2010/09/22/nayta-minulle-hyva-testitapaus/)
+* https://www.thl.fi/fi/tutkimus-ja-asiantuntijatyo/hankkeet-ja-ohjelmat/hankkeet/33355
 
 ### Tavoite:
 
