@@ -3,10 +3,11 @@
 Testikoheeseen tutustuminen tutkivalla asenteella :), eli tutustutaan palveluun käyttäen apuna mindmap-tekniikkaa.
 [(Tämän menetelmän esitteli Maaret Pyhäjärvi)](https://github.com/N4SJAMK/teamboard-test/wiki/expoloratory-testing-session) 
 
+*HUOM Tämä on henkinen ryhmätyö! Eli keskustelkaa yhdessä aiheesta*
 
 ### Tehtäväkuvaus:
 
-* Jokainen ryhmän jäsen tutustuu uuteen kansalaisen palveluun osoitteessa http://beta.suomi.fi
+* Jokainen ryhmän jäsen tutustuu itsenäisesti kansalaisen palvelun beta-versioon osoitteessa http://beta.suomi.fi
 * Liikkuessaan palvelussa kirjataan löydetyt ominaisuudet / tilat Mindmap-muotoon
 * Apuna voi käyttää paperia, mutta erityisen hyödyllistä on kokeilla [mindmup-työkalua!](https://www.mindmup.com/)
 * Jokainen palauttaa luomansa Mindmap-kuvan (jpg) optiman palautuskansioon (GT12)
@@ -23,7 +24,7 @@ Testikoheeseen tutustuminen tutkivalla asenteella :), eli tutustutaan palveluun 
 * Hahmottaa testikohde
 
 
-
 ### Arviointi:
 
 * Palautetaan opettajalle optiman GT12 kansioon
+* Katsotaan yhdessä kuvia!
