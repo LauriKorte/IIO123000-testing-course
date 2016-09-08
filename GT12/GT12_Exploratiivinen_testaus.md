@@ -1,6 +1,6 @@
 ### Harjoitus:
 
-Testikoheeseen tutustuminen tutkivalla asenteella :), eli tutustutaan palveluun käyttäen apuna mindmap-tekniikkaa.
+Testikohteeseen tutustuminen tutkivalla asenteella :), eli tutustutaan palveluun käyttäen apuna mindmap-tekniikkaa.
 [(Tämän menetelmän esitteli Maaret Pyhäjärvi)](https://github.com/N4SJAMK/teamboard-test/wiki/expoloratory-testing-session) 
 
 *HUOM Tämä on henkinen ryhmätyö! Eli keskustelkaa yhdessä aiheesta*
