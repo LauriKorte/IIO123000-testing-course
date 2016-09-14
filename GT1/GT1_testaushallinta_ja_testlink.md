@@ -9,6 +9,9 @@ Kurssin tutustumiskohteena on suosittu Open Source-työkalu nimeltä Testlink.
 
 Ryhmä pystyttää oman koneen käyttäen Linux-virtuaalikonetta. Kone voi sijaita koulun labrakoneilla tai voitte käyttää luoda virtuaalikoneen omalle työasemalle.
 
+[Tehtävän anto YouTube-muodossa](https://www.youtube.com/watch?v=IjgK8GrUynQ)
+
+
 *Tarvittavan virtuaalikoneen speksit*
 
 * Ubuntu 14.x-> Server/Desktop
