@@ -36,11 +36,12 @@ Tehtäviä tarkistetaan tunnilla ja lopullinen palautus tapahtuu sähköpostilla
 
 **Arvostelu:**
 
-* 1 = JUnit asennettu ja ohjeissa tehty testi ajettu.
-* 2 = Vanhaan itse tehtyyn Java-tehtävään tehty muutama testi
-* 3 = Vanhaan itse tehtyyn Java-tehtävään tehty "täydelliset" testit
-* 4 = Muutama testi tehty GitHubista forkattuun Java -projektiin
-* 5 = "Täydelliset" testit tehty joko forkattuun projektiin tai itse tehtyyn uuteen projektiin
+   * 1 = JUnit asennettu ja ohjeissa tehty testi ajettu.
+   * 2 = Vanhaan itse tehtyyn Java-tehtävään tehty muutama testi
+   * 3 = Vanhaan itse tehtyyn Java-tehtävään tehty "täydelliset" testit
+   * 4 = Muutama testi tehty GitHubista forkattuun Java -projektiin
+   * 5 = "Täydelliset" testit tehty joko forkattuun projektiin tai itse tehtyyn uuteen projektiin
+
 
 
 
