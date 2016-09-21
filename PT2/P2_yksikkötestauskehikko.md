@@ -8,7 +8,7 @@ Yksikkötestejä tehdessä aloitus on usein vaikein vaihe, varsinkin jos niitä 
 
 ### Tehtäväkuvaus:
 
-Tunnilla tutustutaan yhdessä Pythonin unittest (PyUnit) yksikkötestikirjastoon ja tehdään yhdessä yksikkötestit yksinkertaiseen esimerkkiohjelmaan.
+Tunnilla tutustutaan yhdessä Pythonin unittest ("PyUnit") yksikkötestikirjastoon ja tehdään yhdessä yksikkötestit yksinkertaiseen esimerkkiohjelmaan.
 
 Tämän jälkeen itsenäisenä osuutena opiskelijat voivat joko jatkaa kyseistä ohjelmaa pidemmälle, kääntää sen eri kielelle käyttäen ko. kielen yksikkötestikirjastoa, käyttää jotain omaa aikaisempaa tai uutta projektia alustana tai forkata jonkun projektin githubista mihin opiskelija tekee yksikkötestejä.
 
