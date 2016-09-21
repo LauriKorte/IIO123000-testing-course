@@ -8,11 +8,9 @@ Yksikkötestejä tehdessä aloitus on usein vaikein vaihe, varsinkin jos niitä 
 
 ### Tehtäväkuvaus:
 
-Tutustu XUnit testauskehikkoon ja tuota esimerkki miten käytät sitä osana omaa projektia.
-Opiskelijat asentavat JUnitin käyttämäänsä kehitysympäristöön (Eclipse tai NetBeans) ja kirjoittavat valitsemaansa ohjelmakikkareeseen yksikkötestejä. 
+Tutustutaan yhdessä Pythonin unittest (PyUnit) yksikkötestikirjastoon ja tehdään yhdessä yksikkötestit yksinkertaiseen esimerkkiohjelmaan.
 
-
-
+Itsenäisenä osuutena opiskelijat voivat joko jatkaa kyseistä ohjelmaa pidemmälle, kääntää sen eri kielelle käyttäen ko. kielen yksikkötestikirjastoa, käyttää jotain omaa aikaisempaa tai uutta projektia alustana tai forkata jonkun projektin githubista mihin opiskelija tekee yksikkötestejä.
 
 ### Lähteet ja linkit
 
