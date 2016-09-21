@@ -1,10 +1,6 @@
 ### Harjoitus:
 
-
-
-* Opiskelija tutustuu Yksikkötestauskehikon (Unit Test Framework) käyttöön ja toteuttaa esimerkin valitsemalleen kohteelle
-Yksikkötestejä tehdessä aloitus on usein vaikein vaihe, varsinkin jos niitä lähtee tekemään jälkikäteen. Parempi kuitenkin myöhään kuin ei milloinkaan :)
-
+Opiskelija tutustuu yksikkötestauskehikon (Unit Test Framework) käyttöön ja toteuttaa valitsemalleen kohteelle yksikkötestejä.
 
 ### Tehtäväkuvaus:
 
