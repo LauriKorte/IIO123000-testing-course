@@ -11,7 +11,7 @@ Tämän jälkeen itsenäisenä osuutena opiskelijat voivat joko jatkaa kyseistä
 ### Lähteet ja linkit
 
 * https://xunit.github.io/
-* http://oopbook.com/junit-testing/junit-testing-in-netbeans/
+* http://oopbook.com/junit-testing/junit-testing-in-netbeans/  
 Ohjeet: http://www.tutorialspoint.com/junit/junit_plug_with_eclipse.htm
 * http://pyunit.sourceforge.net/pyunit.html
 
