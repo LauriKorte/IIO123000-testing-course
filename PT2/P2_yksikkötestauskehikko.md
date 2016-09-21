@@ -24,8 +24,7 @@ Ohjeet: http://www.tutorialspoint.com/junit/junit_plug_with_eclipse.htm
 
 * Tunnistaa mitä tarkoittaa yksikkötestaus
 * Erottaa yksikkötestaus hyväksyntätestauksesta
-
-
+* Oppia tekemään yksinkertaisia yksikkötestejä jollakin ohjelmointikielellä ja yksikkötestikirjastolla
 
 ### Arviointi:
 
