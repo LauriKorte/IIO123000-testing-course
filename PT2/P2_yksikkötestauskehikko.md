@@ -42,13 +42,6 @@ Tehtäviä tarkistetaan tunnilla ja lopullinen palautus tapahtuu sähköpostilla
 - 4 = Githubista forkattuun projektiin tehty jonkun verran omia testejä
 - 5 = Githubista forkattuun projektiin tai itse tehtyyn uuteen projektiin tehty "täydelliset" testit
 
-   1 = JUnit asennettu ja ohjeissa tehty testi ajettu.
-   2 = Vanhaan itse tehtyyn Java-tehtävään tehty muutama testi
-   3 = Vanhaan itse tehtyyn Java-tehtävään tehty "täydelliset" testit
-   4 = Muutama testi tehty GitHubista forkattuun Java -projektiin
-   5 = "Täydelliset" testit tehty joko forkattuun projektiin tai itse tehtyyn uuteen projektiin
-
-
 
 
 
