@@ -29,10 +29,8 @@ Ohjeet: http://www.tutorialspoint.com/junit/junit_plug_with_eclipse.htm
 
 ### Arviointi:
 
-Kuvakaappaus ajettujen testien tuloksista esityksessä olevan kuvan tavalla, sekä itse koodit GitHubissa. 
+Kuvakaappaus ajettujen testien tuloksista, sekä itse koodit GitHubissa. 
 Tehtäviä tarkistetaan tunnilla ja lopullinen palautus tapahtuu sähköpostilla, mukana kuva liitteenä ja linkki repositorioon.
-
-
 
 **Arvostelu:**
 
