@@ -1,6 +1,6 @@
 ### Harjoitus: Testitapauksien suunnittelu
 
-Jokainen kurssilainen suunnittelee joukon testitapauksia liittyen tämän syksyn kurssin testauskohteeseen, joka on  henkilön toimintakyvyn arviontiin tarkoitettu mICF mobiiliapplikaatio. Tätä applikaatiota kehitetään JAMKilla.  
+Jokainen kurssilainen suunnittelee joukon testitapauksia liittyen tämän syksyn kurssin testauskohteeseen, joka on  henkilön toimintakyvyn arviontiin tarkoitettu mICF-mobiiliapplikaatio. Tätä applikaation prototyyppitoteutusta kehitetään JAMKilla ja testauksesta ei ole varmasti haittaa :)
 
 * mICF-hanke ja itse työkalu on esitelty [tällä sivulla](https://github.com/JAMK-IT/IIO123000-testing-course/wiki/info-kurssin-testauskohde)
 * Tarvittessa lisätietoa saa Projektipäällikkö Petteri Wecströmiltä
