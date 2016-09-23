@@ -1,7 +1,6 @@
 ### Harjoitus: Testitapauksien suunnittelu
 
-Jokainen kurssilainen suunnittelee joukon testitapauksia liittyen tämän syksyn kurssin testauskohteeseen, joka on mICF mobiili aplikaatio toimintakyvyn arviontiin.
-
+Jokainen kurssilainen suunnittelee joukon testitapauksia liittyen tämän syksyn kurssin testauskohteeseen, joka on  henkilön toimintakyvyn arviontiin tarkoitettu mICF mobiiliapplikaatio. Tätä applikaatiota kehitetään JAMKilla.  
 
 * mICF-hanke ja itse työkalu on esitelty [tällä sivulla](https://github.com/JAMK-IT/IIO123000-testing-course/wiki/info-kurssin-testauskohde)
 * Tarvittessa lisätietoa saa Projektipäällikkö Petteri Wecströmiltä
@@ -9,12 +8,11 @@ Jokainen kurssilainen suunnittelee joukon testitapauksia liittyen tämän syksyn
 
 ### Tehtäväkuvaus:
 
-Ryhmä piirtäää yhden mindmap-kuvauksen em. testikohteesta ja hahmottelee sen avulla mitä osa-alueita se sisältää.
+**Esityötä**
 
-Mindmap-kuvaa pideteään yllä ja päivitetään tarvittaessa.
-
-Jokainen kurssilainen suunnittele testitapauksia käyttäen apuna ryhmäkohtaista mindmap-kuvausta.
-Tämän avulla voidaa jakaa testaussuunnittelua eri osa-alueille ja välttää näin päälekkäisyyttä.
+* Ryhmä piirtäää yhden mindmap-kuvauksen em. testikohteesta (Applikaatio) ja pyrkii siinä hahmottelemaan mitä osa-alueita se sisältää.
+* Mindmap-kuvaa päivitetään tarvittaessa.
+* Ryhmän jäsenet suunnittelevat itsenäisiä testitapauksia käyttäen koordinoinnissa apuna mindmap-kuvausta, koska sen avulla voidaa ohjata testaussuunnittelua ja välttää näin päälekkäisyyttä.
 
 Testejä tulee laatia seuraavasti:
 
@@ -35,7 +33,7 @@ Ryhmä luo oman projektin jonne tiimi tallettaa suunnittelemansa testitapaukset.
 
 ### Lähteet ja linkit
 
-
+* [Mistä ideoita testeille?](http://www.thebraidytester.com/downloads/YouAreNotDoneYet.pdf)
 * [Testlink-käyttöohjeet](http://www.guru99.com/testlink-tutorial-complete-guide.html)
 * [Cem Kaner: What is a good test case](http://www.kaner.com/pdfs/GoodTest.pdf)
 * [Matti Vuori: Ajatuksia testitapauksista ](https://drive.google.com/file/d/0B-hPgXTXfK9EbnNHODZsczR5NzQ/view)
