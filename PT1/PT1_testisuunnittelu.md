@@ -43,10 +43,14 @@ Ryhmä luo oman projektin jonne tiimi tallettaa suunnittelemansa testitapaukset.
 ### Tavoite:
 
 * Oppia suunnittelemaan testejä
+* Käyttää apuna MindMap-kuvausta 
+* Suunnitellut testit tullaan ajamaan testikohdetta vastaan myöhemmin kurssin aikana!
 
 
 ### Arviointi:
 
-Testejä ei saa kopioida!
+
+Ryhmän jäsenet varautuvat esittelemään ohjaajalle tekemiään testejä palautus tilanteessa.
+Hyväksytty/Hylätty
 
 
