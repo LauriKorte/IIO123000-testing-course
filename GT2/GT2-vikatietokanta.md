@@ -2,15 +2,16 @@
 
 ### Tehtäväkuvaus:
 
-Ryhmätyön tavoitteena ottaa käyttöön [JIRA-Ondemand](https://www.atlassian.com/ondemand/signup/form) palvelu, jota käytetään harjoituksen aikana vikatietokantana (Defect Database) JIRA Ondemand-palvelu integroidaan yhteen ryhmän omaan Testlink-työkaluun. Tämä tapahtuu käyttäen apun JIRA Ondemand-palvelun rajapintaa. 
+Ryhmätyön tavoitteena ottaa oletuksena käyttöön [JIRA-Cloud](https://www.atlassian.com/try)-palvelu, jota käytetään harjoituksen aikana vikatietokantana (Defect Database).  JIRA Could-palvelu integroidaan kiinni ryhmän omaan Testlink-työkaluun. Tämä tapahtuu käyttäen apun ko. palvelun rajapintaa. 
 
-Ryhmät voivat kokeilla omaa palvelua "Trial"-moodissa tai käyttää kurssin aikana toimivaa palvelua osoitteessa: https://iio123000.atlassian.net/
+Ryhmät voivat kokeilla omaa palvelua "Trial"-moodissa tai käyttää kurssin aikana toimivaa palvelua osoitteessa: https://iio123000.atlassian.net/ Tunnukset saa ohjaajalta
 
-Integraatio luodaan Testlink-työkalun "Issue Tracker Management"-ominaisuuden avulla. Tänä ominaisuuden avulla liitetään vikaraportointi "saumattomaksi" osaksi testiraportointia. 
+Tärkeää integraatiosta:
+
+* Testlink palvelimella pitää olla asennettuna php5-curl kirjasto! Muuten REST rajapinta ei toimi!
+* Itse järjestelmä JIRAN ja Testlink-ohjelmiston välillä luodaan Testlinkin "Issue Tracker Management"-ominaisuuden avulla. Tänä ominaisuuden avulla liitetään vikaraportointi "saumattomaksi" osaksi testiraportointia. 
 
 [Youtube tehtäväanto](https://www.youtube.com/watch?v=XX1oiuCnehY)
-
-
 
 
 ![](http://i.imgur.com/6aFA684.png)
@@ -21,8 +22,7 @@ HUOM! Tehtävän aikana tehdyt työvaiheet dokumentoidaan esim. wiki sivun muoto
 ### Lähteet ja linkit
 
 * http://testlink.org/
-* http://Bugzilla.org
-* http://Mantis.org
+* Kannattaa kokeilla myös http://Bugzilla.org ja http://Mantis.org
 * http://Jira (Attlassian)
 * [Muut](https://github.com/TestLinkOpenSourceTRMS/testlink-code/tree/testlink_1_9/lib/issuetrackerintegration)
 
