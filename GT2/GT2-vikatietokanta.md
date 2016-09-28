@@ -23,8 +23,8 @@ HUOM! Tehtävän aikana tehdyt työvaiheet dokumentoidaan esim. wiki sivun muoto
 
 * http://testlink.org/
 * Kannattaa kokeilla myös http://Bugzilla.org ja http://Mantis.org
-* http://Jira (Attlassian)
-* [Muut](https://github.com/TestLinkOpenSourceTRMS/testlink-code/tree/testlink_1_9/lib/issuetrackerintegration)
+* [http://Jira ](https://www.atlassian.com/software/jira)
+* [Muut vaihtoehdot integraatioille](https://github.com/TestLinkOpenSourceTRMS/testlink-code/tree/testlink_1_9/lib/issuetrackerintegration)
 
 
 ### Tavoite:
