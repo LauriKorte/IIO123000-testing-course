@@ -1,25 +1,42 @@
-### Harjoitus: Test bench technlogys VAGRANT & DOCKER
+### Harjoitus: Docker
 
 Ryhmä tutustuu moderniin testiautomaation, joka on toteutettu käyttäen docker teknologiaa
 
-Tässä vaiheessa harjoitus on vielä raakile!
 
 ### Tehtäväkuvaus:
 
+Ryhmä rakentaa Docker ympäristön ja ajaa testitapauksia sitä vasten
 
-Ryhmä käynnistää Rancher-alustalle testikohteen (SUT) ja ajaa testi tapauksia sitä vasten
+
+### Tehtävä:
+
+Ryhmä asentaa virtuaalikoneelle Dockerin sekä Docker-composen ohjeiden mukaan.
+
+Ryhmä käynnistää paketin, josta löytyy Testlink, MySQL, Mantis ja phpMyAdmin. Tarvittava compose tiedosto löytyy linkeistä.
+
+Ryhmä tekee tarvittavat konffit mantiksen liittämiseksi osaksi testlinkkiä. Esimerkki linkeissä.
+
+Ryhmä suorittaa pienimuotoisen testin aikaisempien oppien mukaan.
+
+Salasanat annetaan tunnilla!
 
 
 ### Lähteet ja linkit
 
-* rancher.com
-* Docker.com
+* https://docs.docker.com/
+* https://raw.githubusercontent.com/Juhpek/TestlinkMySQLphpMyAdminMantis/master/docker-compose.yml
+* https://raw.githubusercontent.com/Juhpek/TestlinkMySQLphpMyAdminMantis/master/testlink.conf
+
+
+### Vinkkejä:
+
+* Localhost ei ole oikein.
+* Varmista Mantiksessa että testlink käyttäjä löytyy ja ano login toimii.
 
 
 ### Tavoite:
 
 * Kokeillaan ja opitaan ehkä jotain!
-
 
 
 ### Arviointi:
