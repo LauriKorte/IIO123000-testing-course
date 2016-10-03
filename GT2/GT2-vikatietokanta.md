@@ -21,7 +21,13 @@ HUOM! Tehtävän aikana tehdyt työvaiheet dokumentoidaan esim. wiki sivun muoto
 
 ### Vianhallintaprosessi ymmärtäminen
 
+*JIRAn vianhallintaprosessi*
+
 ![](https://confluence.atlassian.com/jira060/files/370705000/370508797/1/1336008107402/system-workflow.png)
+
+*BUGZILLANn vianhallintaprosessi*
+
+¡[](https://www.bugzilla.org/docs/4.0/en/images/bzLifecycle.png)
 
 
 ### Lähteet ja linkit
