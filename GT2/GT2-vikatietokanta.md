@@ -21,7 +21,7 @@ HUOM! Tehtävän aikana tehdyt työvaiheet dokumentoidaan esim. wiki sivun muoto
 
 ### Vianhallintaprosessi ymmärtäminen
 
-![](https://confluence.atlassian.com/jiracorecloud/files/803373920/803373923/1/1455171784603/processmanagementcore.png)
+![](https://confluence.atlassian.com/jira060/files/370705000/370508797/1/1336008107402/system-workflow.png)
 
 
 ### Lähteet ja linkit
