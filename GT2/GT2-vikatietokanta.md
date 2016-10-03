@@ -19,8 +19,14 @@ Tärkeää integraatiosta:
 
 HUOM! Tehtävän aikana tehdyt työvaiheet dokumentoidaan esim. wiki sivun muotoon. Tämä dokumentti pitää olla saatavilla luovutuksen yhteydessä
 
+### Vianhallintaprosessi ymmärtäminen
+
+![](https://confluence.atlassian.com/jiracorecloud/files/803373920/803373923/1/1455171784603/processmanagementcore.png)
+
+
 ### Lähteet ja linkit
 
+* [JIRA-ohjeet Guru99](http://www.guru99.com/jira-tutorial-a-complete-guide-for-beginners.html)
 * http://testlink.org/
 * Kannattaa kokeilla myös http://Bugzilla.org ja http://Mantis.org
 * [http://Jira ](https://www.atlassian.com/software/jira)
