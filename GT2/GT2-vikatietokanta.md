@@ -19,6 +19,8 @@ Tärkeää integraatiosta:
 
 HUOM! Tehtävän aikana tehdyt työvaiheet dokumentoidaan esim. wiki sivun muotoon. Tämä dokumentti pitää olla saatavilla luovutuksen yhteydessä
 
+* [Miksi jira?](https://www.atlassian.com/gartner)
+
 ### Vianhallintaprosessi ymmärtäminen
 
 *JIRAn vianhallintaprosessi*
