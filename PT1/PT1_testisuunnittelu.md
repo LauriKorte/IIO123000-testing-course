@@ -1,5 +1,11 @@
 ### Harjoitus: Testitapauksien suunnittelu
 
+Huomio!
+
+![](https://openclipart.org/image/300px/svg_to_png/123637/Skull-and-crossbones-high-voltage-sign.png&disposition=attachment)
+Tämä tehtävä suoritetaan ryhmänä!
+
+
 Jokainen kurssilainen suunnittelee joukon testitapauksia liittyen tämän syksyn kurssin testauskohteeseen, joka on  henkilön toimintakyvyn arviontiin tarkoitettu mICF-mobiiliapplikaatio. Tätä applikaation prototyyppitoteutusta kehitetään JAMKilla ja testauksesta ei ole varmasti haittaa :)
 
 * mICF-hanke ja itse työkalu on esitelty [tällä sivulla](https://github.com/JAMK-IT/IIO123000-testing-course/wiki/info-kurssin-testauskohde)
