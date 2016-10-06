@@ -1,0 +1,229 @@
+Summary, Assignee, Reporter, Issue Type, Description, Priority
+Bugzilla can be abused by spammers,dev1,customer_care,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",1
+Add the ability to disable sending of mail when admin config changes (eg deleting a flag type) result in changes to bugs,dev1,tester1,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",2
+Account History truncates overly long field data,dev1,tester1,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",3
+Do not let admins delete custom fields with SQLite as DB server,dev1,tester1,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",4
+"When configuring sslbase with an IPv6 only DNS label, bugzilla fails to resolve the hostname",dev1,tester1,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",1
+"When editing a user account, the list of groups is broken if it has both LTR and RTL type group names with descriptions having identical directionality",dev1,tester1,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",2
+"When creating a new custom field, values in the Type select field are sorted randomly",dev1,tester1,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",3
+Per-product editcomponents allows users to see ALL groups,dev1,tester1,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",4
+Custom fields with an illegal type can be created,dev1,tester1,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",1
+Changes to group access controls are not logged,dev1,tester1,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",2
+Failed to bind to the LDAP server. The error message was: Bad file descriptor,dev1,tester1,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",3
+Active Directory incompatibility: LDAPBaseDN cannot be empty,dev1,tester1,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",4
+creating a version should invalidate the product's cached version list,dev1,tester1,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",1
+The description for the system groups is not localizable,dev1,tester1,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",2
+Bugzilla cannot be used in different virtual hosts because urlbase is used to build static links,dev1,tester1,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",3
+Log changes to default preferences,dev1,tester1,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",4
+edit flag types should at least offer Create Flag Type for Bugs at the bottom next to Create Flag Type For Attachments,dev1,tester1,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",1
+need undo / audit-trail for vandalism cleanup,dev1,tester1,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",2
+Not possible to globally disable (Personal) Tags in an installation anymore,dev1,tester1,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",3
+Group Administration via interface should error if regular expression size is greater than column length,dev1,tester1,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",4
+Cannot change the permission requirement for a disabled group,dev1,tester1,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",1
+"When creating or editing a component, make sure that the default assignee, QA contact and CC list are allowed to edit bugs if strict_isolation is enabled",dev1,tester1,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",2
+"editflags creates a space-separated list instead of a comma-separated list, in the UI",dev1,customer_care,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",4
+"When starting a sudo session, Firefox passes your credentials to the form, despite it shouldn't",dev1,customer_care,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",1
+globalwatchers param needs to explicitly state that it enforces bug viewing privileges,dev1,customer_care,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",1
+"Forbids the default milestone from being marked as inactive, and forbids to choose an inactive milestone as the default one",dev1,customer_care,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",2
+User account log should use consistent date formatting,dev1,customer_care,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",3
+Possible race condition in adding custom fields,dev1,customer_care,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",4
+Creategroups allows the user to make themselves an admin,dev1,customer_care,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+target milestone creation shouldn't accept newline characters,dev2,customer_care,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",1
+the layout in editflagtypes.cgi needs to be fixed so that it doesn't jump around,dev2,customer_care,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",2
+OtherControl=SHOWN needs better on-page description,dev2,customer_care,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",3
+inconsistent case of component in title for select/delete component,dev2,customer_care,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",4
+describekeywords and editkeywords have different column orders,dev2,customer_care,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",1
+Possibly wrong documentation for once vs. onepass in jobqueue.pl,dev2,customer_care,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",2
+"The sudo session UI lists all active users, even those who cannot be impersonated",dev2,customer_care,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",3
+jobqueue.pl doesn't release the terminal when it forks,dev2,customer_care,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",4
+Cannot set a new product version or milestone to 0,dev2,customer_care,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",1
+Group userregexps length limit is too small,dev2,customer_care,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",2
+The 'mybugstemplate' parameter is not filtered in templates (and its default value should use & instead of &amp;),dev2,customer_care,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",3
+Anonymous LDAP failure reports user/pass not found with MS-AD,dev2,customer_care,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",4
+Prevent user account creation from editusers.cgi if DB is set as inactive in user_verify_class,dev2,customer_care,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",1
+Software error when granting a user access to a large number of groups,dev2,customer_care,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",2
+uninitialized values in editwhines when adding a new schedule to an existing event,dev2,customer_care,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",3
+Possible product name leakage when deleting user accounts,dev2,tester2,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",4
+English hardcoded string in Config/Auth.pm,dev2,tester2,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",1
+Explanation on editgroups.cgi could incorrectly say a checkbox is check by default,dev2,tester2,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",2
+Remove the unused DEFAULT_CLASSIFICATION_ID constant,dev2,tester2,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",3
+sort key description on editflagtypes.cgi is poorly written,dev2,tester2,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",4
+Parameters should default to the index not Required Settings,dev2,tester2,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",1
+Column names of groups.isactive and groups.isbuggroup are confusing,dev2,tester2,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",2
+Inconsistancy with __All__ and __Any__ in Administer Flag Types,dev2,tester2,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",4
+Description of 'letsubmitterchoosepriority' is misleading,dev2,tester2,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",1
+No confirmation message appears while performing reclassification,dev2,tester2,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",1
+The name bz_canusewhineatothers is difficult to read,dev2,tester2,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",2
+don't offer to go back to the user list if there wasn't one,dev2,tester2,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",3
+it would be nice if editflag group selection provided a way to do ad hoc groups,dev2,tester2,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",4
+sanitycheck should warn if the attachments table is near full,dev2,tester2,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Please add a page for bulk-loading components into a product,dev3,tester2,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+"When editing the bug status workflow, throw an error if a product has allow UNCONFIRMED disabled and UNCONFIRMED is the only allowed bug status for new bugs",dev3,tester2,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+provide a merge users feature based on mergeusers.pl,dev3,tester2,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+editcomponents.cgi should make use of ->set_all,dev3,tester2,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+editflagtypes.cgi should use ->set_all,dev3,tester2,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+there probably isn't and should be a way to view restrictions from the editflagtypes page,dev3,tester2,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",1
+Do not ask the admin to confirm the deletion of a custom field if it cannot be deleted,dev3,tester2,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",2
+LDAP: authentication should allow sslversion parameter (or any other parameters for Net::LDAP->new()),dev3,tester2,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",3
+Ability to edit/update quips without losing the submitter info,dev3,tester2,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",4
+Filter not saved when returning to editflagtypes.cgi after editing a flagtype,dev3,tester2,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",1
+editkeywords.cgi: Ability to merge two keywords,dev3,tester2,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",2
+Ability to disable/enable QA Contact field per component,dev3,tester2,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",3
+shutdownhtml and announcehtml need validation or preview,dev3,tester2,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",4
+Products (components?) should be able to specify an image url,dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",1
+Impersonated (sudo) updates should be logged,dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",2
+Fill in or suggest a default for urlbase if it's empty when you visit editparams.cgi,dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",3
+https redirect doesn't allow top bar log in and no error message when ssl_redirect/sslbase is missing,dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",4
+factor vcard into a template and use it for describecomponents/editcomponents,dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",1
+"Distinction between bug groups, user groups, and permissions",dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",2
+support classification level groups,dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",3
+Allow components to override default target milestone for the product,dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",4
+editworkflow.cgi should use Bugzilla::Status,dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",1
+Saving the params file should not change its owner and group,dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",2
+adding / removing a user to global watchers list should add an entry to the user's account log,dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",3
+Administrators should be able to see what system parameters have been changed.,dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",4
+Bugzilla as an Apache authentication provider (authentication server),dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",1
+Add date search criteria to profiles activity searches,dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",2
+Add the option to share field values between few bugzilla fields,dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",4
+Params should be objects,dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",1
+Copy component facility should be provided to copy components across products.,dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",1
+Need the ability to delete comments (allow comment deletion),dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",2
+Allow Keywords to control the visibility of custom fields,dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",3
+"Always display the delete link for custom fields, even if they are not deletable",dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",4
+Default to hiding disabled milestones in milestone management screens,dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+"In editusers.cgi, store the query in a cookie",dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Ability to add custom URL fields,dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+editmilestones should allow mass add based on a CSV list of milestones,dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+link parameters with documentation,dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Add/save changes links/button should be available on top of the table also.,dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Bugzilla::User function to clean a user's token table entries,dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Create a new system group which allows members to disable user accounts,dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Edit Flags Menu should have an inclusion/exclusion for classification,dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Product-level initial Cc list,dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+editusers.cgi: Have a search box at the top of the user list,dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Allow admins to create users who can't log in using their DB password (no password in the DB),dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+editparams.cgi should request confirmation for unsaved changes before leaving the page,dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+show an explanation for ? if user account activity log includes ?s,dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+"Consider expanding custom fields feature to products, components, and comments.",dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Implement a password aging policy (require password changes after a certain period of time),dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+editcomponents.cgi should edit by default if no action specified and product and component are given,dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+User account log should display disabled account events,dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Ability to add/remove several users at once to/from a group,dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+make the last admin really confirm removing the final admin,dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Implement a new method for Group.pm to get all grantor members of a group,dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Add user flag to force user to change email address at next login,dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+batch support for adding/updating products,dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Add UI to define version equivalencies,dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+"Add a locked attribute to flagtypes, to be able to prevent them from being cleared",dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Editcomponents update message should only link to edit components,dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Ability to copy/clone a product or products,dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Mandatory Field asterik sign is missing from the add product page on the mandatory fields,dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+change Bug Change Policies from booleans to groups,dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Implement the ability to filter groups in editgroups.cgi based on products they currently apply to,dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Ability to list all users by a group name,dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+add a parameter to ban whole domains from creating accounts,dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+provide xml/csv/... formats for describecomponents,dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Add capabilities for specifying a list of addresses to be mailed when a bug is added/removed from a group,dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Allow comments in profiles_activity table,dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Changing bless permissions is not logged in profiles_activity,dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+"Remove the letsubmitterchoosepriority parameter, and forbids reporters to edit the priority field unless they have editbugs privs",dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Remove the 'sslbase' parameter,dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Provide ability to specify location for the params file,dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Make it more obvious how to create new things in the Admin screens,dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Need a way to add a version across multiple products,dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Editusers in list mode should give columns for all groups you can grant,dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Allow manually unlocking a user account after user lockout,dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+add a few user-specific queries to editusers.cgi?action=edit,dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Remove the 'globalwatchers' parameter,dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Remove the 'useclassification' parameter,dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Large SQL statement in editusers.cgi userDataToVars should be replaced with simple perl code.,dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Add utility function for moving components between products,dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Cannot specify different parameters for different LDAP Servers,dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Offer a delete action from edit values (and other admin edit pages),dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+"Implement nicks for other Bugzilla installations, so that See Also can use them",dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Create user should let admins select group membership,dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+shutdownhtml parameter should not accept only blank characters,dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Create chart datasets for this product only appearing on add product,dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+urlbase and sslbase should check that there's a valid Bugzilla installation there,dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Custom message if Open for bug entry not enabled (instead of Entering a bug has been disabled.),dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Remove the 'chartgroup' parameter,dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+RFE: Milestones on a per-component basis,dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Parameters for modules which are not installed should not be editable through editparams.cgi,dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+No field value specified when trying to edit a field value.  should default to giving me the list,dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Provide a members list action for editgroups.cgi,dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+"Allow filtering, grouping, sorting of editflagtypes by something (active, name, description, properties, grant group, request group)",dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+"Throttle new bug creation, comments, and modifications for some accounts",dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Time tracking should be a checkbox to enable with any group settings as additional params or product controls,dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Provide administrative broadcast to groups of users,dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+User Wizard: Need ability to handle user removal more elegantly from UI and back-end,dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+config.cgi needs information about which groups are valid in which products,dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Customized new Status and Resolution field values not automatically shown on help page,dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Ability for a user to fully control a particular group without having editgroups,dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+edit users should warn if a user is still inheriting after removal,dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+strict_isolation default setting,dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Flags: Show included/excluded products/components in flag-type list,dev3,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Support for Windows Authentication using IIS,,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Remove the 'querysharegroup' parameter,,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+All instances of Bugzilla::Object should have ->create() and ->update() implemented,,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Improve the page layout when editing a group having a very long name,,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Re-work editmilestones so that you can edit multiple milestones at once,,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+"When viewing a group from editgroups.cgi, it should display which privileges you would inherit if added in this group",,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+please offer change several classification descriptions at once,,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Add text to checksetup.pl to point admins to announce@bugzilla.org to receive notifications of updates,,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+"If data/params is a symlink, the symlink is removed and replaced by a text file the next time params are edited",,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Remove the 'timetrackinggroup' parameter,,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+add audit trail and optional comment field for params changes,,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Can't sort quip list by author,,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+sanitycheck for GRANT_REGEXP group membership,,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Bugzilla::Field::Choice implementation for Version.pm and Milestone.pm,,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+editusers.cgi doesn't let me search for a string that matches either login address or real name (both are exclusive),,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+editfields.cgi should make use of ->set_all,,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Simplify product group controls,,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Make Hardware and OS fields optional,,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Make usemenuforusers a user preference instead of a Parameter.,,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Remove the 'insidergroup' parameter,,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Implement default component for products,,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Changing emailregexp should warn if accounts match it.,,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+renaming a user using edituser should trump any existing email rename tokens,,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Make insider groups generic as a list of groups configurable per product,,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Ability to enable/disable extensions from the web UI,,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Improve Product Group Controls system (it doesn't easily support multiple customers per product),,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Display a custom field value based on multiple values of another field,,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Need ability to move component from product to product,,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+"When marking a flag type as inactive, let the admin remove remaining pending requests",,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Should be a way to populate large numbers of legal values for a custom field at once,,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Templates should use field.is_visible_on_bug method instead,,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+"insidergroup, timetrackinggroup, and querysharegroup descriptions don't include note about blank = disabled/unavailable",,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+"Bugzilla should warn when a user is made component owner, but isn't in the group",,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+"When deleting a milestone, allow me to pick a new milestone for bugs that use that milestone",,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+sanitycheck.pl should be able to accept repair actions and pass them to sanitycheck.cgi,,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Ability to control the default email preferences through User Preferences,,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Should limit users in assignee/cc/qa list to those permitted to have that role,,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Display product-specific privileges for users in editusers.cgi,,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Custom Fields should allow dropdown user-select option for a defined group,,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Field Values should have its own permission,,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Linkify bug X and attachment X in *all* languages,,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Use Module::Pluggable to get authentication methods (instead of hardcoded lists),,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+RFE: editcomponents.cgi - Offer users ability to change defaults on multiple components simultaneously,,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Need a way to edit group membership from the group editor,,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Allow the Version field to control the visibility and values of custom fields,,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Reducing duplicate typing in versions,,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Versions should have sortkeys like milestones.,,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+add a cooloff group to bugzilla,,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Values of an obsolete drop down custom field cannot be deleted if some bugs use these values,,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+"When deleting a bug which has dupes, duplicates cannot be edited anymore",,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+workflow editor should let people *view* the workflow,,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Add ability for describecomponents to describe all components in all products,,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+"shutdownhtml should force log off of all users but administrators, or alternative parameter made to support this",,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+[LDAP] Ability to explicitly restrict who can log in based on LDAP groups,,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Add ability to control the visibility of a custom field using a flag's state/value,,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Ability to do more complex searches based on group when editing users,,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Support N-Level classifications,,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+custom fields which are dependend on a product should be editable for the editcomponents group,,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Detailed audit logging for specific user actions within Bugzilla,,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+"Link to admin pages on sanitycheck for components, products, etc.",,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+sanity check output format is not intuitive,,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+support configurable password reset policies,,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Enable changes to be applied to additional products at the same time,,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Remove canedit now that we have per-product editbugs,,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
+Create Component form (add) should accept prefill using the same fields as the real thing (new),,,1,"While trying to start apache by apachectl -k start, Apache 2.2.3 does not give",
