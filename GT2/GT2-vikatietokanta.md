@@ -2,6 +2,8 @@
 
 ### Tehtäväkuvaus:
 
+[#1]
+
 Ryhmätyön tavoitteena ottaa oletuksena käyttöön [JIRA-Cloud](https://www.atlassian.com/try)-palvelu, jota käytetään harjoituksen aikana vikatietokantana (Defect Database).  JIRA Could-palvelu integroidaan kiinni ryhmän omaan Testlink-työkaluun. Tämä tapahtuu käyttäen apun ko. palvelun rajapintaa. 
 
 Ryhmät voivat kokeilla omaa palvelua "Trial"-moodissa tai käyttää kurssin aikana toimivaa palvelua osoitteessa: https://iio123000.atlassian.net/ Tunnukset saa ohjaajalta
