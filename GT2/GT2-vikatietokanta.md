@@ -47,6 +47,17 @@ Opiskelija ymmärtää mitä tarkoitetaan jäljitettävyydellä (Traceability) s
 
 ### Arviointi:
 
+Ryhmä valmistautuu ajamaan seuraavaan hyväksyntätestin:
+
+-Uusien käyttäjien luominen JIRAan
+-Projektin luominen
+-Komponenttien luominen
+-Issue-import (vanhasta projektista)
+-Issuen jakaminen eri tiimin jäsenille (Assign)
+-Käytetyn Work flow esittely ja sen läpikäynti (Work Flow)
+-Testitapauksien ja JIRA issuen linkittäminen 
+
+
 Ratkaisu esitellään opettajalle  
 
 Hyväksytty/Hylätty
