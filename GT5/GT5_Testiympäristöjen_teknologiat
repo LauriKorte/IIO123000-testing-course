@@ -12,9 +12,7 @@ Ryhmä rakentaa Docker ympäristön ja ajaa testitapauksia sitä vasten
 
 Ryhmä asentaa virtuaalikoneelle Dockerin sekä Docker-composen ohjeiden mukaan.
 
-Ryhmä käynnistää paketin, josta löytyy Testlink, MySQL, Mantis ja phpMyAdmin. Tarvittava compose tiedosto löytyy linkeistä.
-
-Ryhmä tekee tarvittavat konffit mantiksen liittämiseksi osaksi testlinkkiä. Esimerkki linkeissä.
+Ryhmä käynnistää paketin, josta löytyy Testlink, MySQL ja phpMyAdmin. Tarvittava compose tiedosto löytyy linkeistä.
 
 Ryhmä suorittaa pienimuotoisen testin aikaisempien oppien mukaan.
 
@@ -24,14 +22,12 @@ Salasanat annetaan tunnilla!
 ### Lähteet ja linkit
 
 * https://docs.docker.com/
-* https://raw.githubusercontent.com/Juhpek/TestlinkMySQLphpMyAdminMantis/master/docker-compose.yml
-* https://raw.githubusercontent.com/Juhpek/TestlinkMySQLphpMyAdminMantis/master/testlink.conf
+* https://github.com/JAMK-IT/test-environments/tree/master/Testlink
 
 
 ### Vinkkejä:
 
 * Localhost ei ole oikein.
-* Varmista Mantiksessa että testlink käyttäjä löytyy ja ano login toimii.
 
 
 ### Tavoite:
