@@ -12,7 +12,7 @@ Ryhmä rakentaa Docker ympäristön ja ajaa testitapauksia sitä vasten
 
 Ryhmä asentaa virtuaalikoneelle Dockerin sekä Docker-composen ohjeiden mukaan.
 
-Ryhmä käynnistää paketin, josta löytyy Testlink, MySQL ja phpMyAdmin. Tarvittava compose tiedosto löytyy linkeistä.
+Ryhmä käynnistää paketin, josta löytyy Testlink ja MySQL. Tarvittava compose tiedosto löytyy linkeistä.
 
 Ryhmä suorittaa pienimuotoisen testin aikaisempien oppien mukaan.
 
