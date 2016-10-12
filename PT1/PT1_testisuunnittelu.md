@@ -34,11 +34,12 @@ Lisäksi suunnitellaan muutama tarkempi testitapaus seuraaville osa-alueille
 
 Testit talletetaan kurssin aikana käytettävään [Testlink-palveluun](http://146.185.132.189/testlink), josta ne palautettaessa esitellään ohjaajalle henkilökohtaisesti.
 
-Testitapaukset liitetään yhteen ja maan testiprojektiin! 
+Testitapaukset liitetään yhteiseen testiprojektiin! 
+
 
 * Testiprojekti on nimeltään: PT:Official PT1
 * Ryhmä jäsenet sjoittava suunnittelemansa testitapaukset tämän projekin testitapauskokoelmaan "Test Specification"
-
+* 
 
 
 
