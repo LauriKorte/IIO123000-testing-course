@@ -14,6 +14,7 @@ Tämän jälkeen itsenäisenä osuutena opiskelijat voivat joko jatkaa kyseistä
 * http://oopbook.com/junit-testing/junit-testing-in-netbeans/  
 Ohjeet: http://www.tutorialspoint.com/junit/junit_plug_with_eclipse.htm
 * http://pyunit.sourceforge.net/pyunit.html
+* https://cgoldberg.github.io/python-unittest-tutorial/
 
 ### Tavoite:
 
