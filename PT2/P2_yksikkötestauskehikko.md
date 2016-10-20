@@ -26,7 +26,9 @@ Ohjeet: http://www.tutorialspoint.com/junit/junit_plug_with_eclipse.htm
 ### Arviointi:
 
 Kuvakaappaus ajettujen testien tuloksista, sekä itse koodit GitHubissa. 
-Tehtäviä tarkistetaan tunnilla ja lopullinen palautus tapahtuu Optiman palautuslaatikkoon, kuva liitteenä ja linkki repositorioon.
+Tehtäviä tarkistetaan tunnilla ja lopullinen palautus tapahtuu Optiman palautuslaatikkoon, kuva liitteenä ja linkki repositorioon.  
+
+Palautettava ennen tenttiä.
 
 **Arvostelu:**
 
