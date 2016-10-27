@@ -16,6 +16,7 @@ Tämän jälkeen itsenäisenä osuutena opiskelijat voivat joko jatkaa kyseistä
 Ohjeet: http://www.tutorialspoint.com/junit/junit_plug_with_eclipse.htm
 * http://pyunit.sourceforge.net/pyunit.html
 * https://cgoldberg.github.io/python-unittest-tutorial/
+* https://docs.python.org/2/library/unittest.html
 
 ### Tavoite:
 
