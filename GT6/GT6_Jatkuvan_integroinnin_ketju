@@ -1,18 +1,16 @@
-### Harjoitus: Contiuous Integration using Jenkins and XUnit framework
+### Harjoitus: Continuous Integration using Jenkins and XUnit framework
 
-
-
-* Lorem Ipsum
-
+Viime viikolla tehtiin yksinkertaiset yksikkötestit Basket-sovellukseen pythonilla.
+Tällä kertaa haluamme pystyttää Jenkins build-serverin palvelimellemme, joka hakee uusimmat muutokset gitistä suorittaen testit ja buildaa sovelluksen.
 
 ### Tehtäväkuvaus:
 
 Ryhmä asentaa CI ympäristön käyttäen GitHubia ja Jenkinsiä
 
 http://jenkins-ci.org/
-Jenkins palvelin pystytetään JAMK:in labranet koneelle (ewok xx) Jenkins palvelimeen luodaan "jobit" jotka osaavat noutaa koodia Github-repositoriosta aina jobia ajettaessa ja kääntää noudettu koodi serverillä. Jenkins asennetaan ryhmän kesken ja jokainen luo sinne oman jobinsa.
+Jenkins palvelin pystytetään JAMK:in labranet koneelle. Jenkins palvelimeen luodaan "jobi" jotka osaa noutaa koodin Github-repositoriosta ja kääntää noudettu koodi serverillä. Jenkins asennetaan ryhmän kesken ja jokainen luo sinne oman jobinsa.
 
-Itse testattavalla koodilla ei ole merkitystä, kunhan sen saa käännettyä. Kyseessä voi olla vanha kurssiharjoitus, tämän kurssin yksikkötestiharjoitus tai GitHubista löydetty pieni projekti. Tarkoituksena on ymmärtää kuinka Jenkins toimii.
+Tehtävä tehdään ryhmäkohtaisesti ryhmän omalle palvelimelle. Kaikkien tulee ymmärtää kuinka Jenkins toimii.
 
 
 ### Lähteet ja linkit
@@ -22,13 +20,15 @@ Itse testattavalla koodilla ei ole merkitystä, kunhan sen saa käännettyä. Ky
 
 ### Tavoite:
 
-* Oppia jotain jännää...
-
-
+* Oppia Jenkinsin (tai vastaavan build serverin) merkitys ja käyttö
+* Saada tehtyä jobi joka:
+ * Hakee koodin automaattisesti gitistä jollakin aikavälillä
+ * Ajaa läpi yksikkötestit, generoi xunit-mallisen testituloksen ja käsittelee sen
+* Tehtävässä opitaan myös asentelemaan sovelluksia palvelimelle
 
 ### Arviointi:
 
-Ryhmä esittelee asennetun ympäristön ja näyttää että koodi kääntyy serverillä kun jobin laittaa käyntiin. 
+Ryhmä esittelee ympäristönsä ja näyttää että jobi hakee gitistä uusimman lähdekoodin, ajaa testit ja suorittaa buildin mikäli virheitä ei tule.
 Arvosana on joko hyväksytty tai hylätty.
 
-Palautustilanne: Tarkistetaan tunnilla/ sähköposti
+Palautustilanne: Tarkistetaan tunnilla / sähköposti
