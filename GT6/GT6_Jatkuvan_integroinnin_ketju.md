@@ -1,7 +1,7 @@
 ### Harjoitus: Continuous Integration using Jenkins and XUnit framework
 
 Viime viikolla tehtiin yksinkertaiset yksikkötestit Basket-sovellukseen pythonilla.
-Tällä kertaa haluamme pystyttää Jenkins build-serverin palvelimellemme, joka hakee uusimmat muutokset gitistä suorittaen testit ja buildaa sovelluksen.
+Tällä kertaa haluamme pystyttää Jenkins build-serverin palvelimellemme, joka hakee uusimmat muutokset gitistä suorittaen testit ja tekee buildin.
 
 ### Tehtäväkuvaus:
 
