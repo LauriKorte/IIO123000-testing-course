@@ -26,7 +26,7 @@ Tehtävä tehdään ryhmäkohtaisesti ryhmän omalle palvelimelle. Kaikkien tule
 * Saada tehtyä jobi joka:
  * Hakee koodin automaattisesti gitistä jollakin aikavälillä
  * Ajaa läpi yksikkötestit, generoi xunit-mallisen testituloksen ja käsittelee sen
-* Tehtävässä opitaan myös asentelemaan sovelluksia palvelimelle
+* Tehtävässä opitaan myös testidokumentin generointi xUnit-mallin mukaisesti, sekä asentelemaan sovelluksia palvelimelle
 
 ### Arviointi:
 
