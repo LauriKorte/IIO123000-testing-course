@@ -15,7 +15,7 @@ Tehtävä tehdään ryhmäkohtaisesti ryhmän omalle palvelimelle. Kaikkien tule
 
 ### Lähteet ja linkit
 
-* [Pieni ohjedokkari]()
+* [Pieni ohjedokkari](https://github.com/JAMK-IT/IIO123000-testing-course/wiki/GT6-ohjedokkari)
 * http://google.com
 
 
