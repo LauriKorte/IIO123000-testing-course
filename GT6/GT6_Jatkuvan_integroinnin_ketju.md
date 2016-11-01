@@ -17,6 +17,7 @@ Tehtävä tehdään ryhmäkohtaisesti ryhmän omalle palvelimelle. Kaikkien tule
 
 * [Pieni ohjedokkari](https://github.com/JAMK-IT/IIO123000-testing-course/wiki/GT6-ohjedokkari)
 * https://jenkins.io/
+* http://nose.readthedocs.io/en/latest/
 
 
 ### Tavoite:
