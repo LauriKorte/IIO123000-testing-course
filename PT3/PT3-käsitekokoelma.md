@@ -45,7 +45,8 @@ Ehdotus 2.11.2016:
 - [ ] Testikohteen konfiguraatio / Test Target Configuration
 - [ ] Versionhallinta / Version Control Management
 - [ ] Konfiguraatiohallinta / Configuration Management
-
+- [ ] ISTQB / International Software Testing Qualification Board
+- [ ] ISO/IEC 29119 – Software Testing standard
 
 
 
