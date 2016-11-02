@@ -6,7 +6,9 @@ Tulosta sivu kopiona tarvittaessa paperille ja merkitse kaikki, joihin olet pere
 (Sisältö voi muuttua kurssin aikana eri palautteiden perusteella, mutta aloitetaan tästä!)
 
 
-Ehdotus 7.9.2016:
+
+
+Ehdotus 2.11.2016:
 
 
 - [ ] Mustalaatikko / Black Box testing
@@ -44,10 +46,7 @@ Ehdotus 7.9.2016:
 - [ ] Versionhallinta / Version Control Management
 - [ ] Konfiguraatiohallinta / Configuration Management
 
-Muita huomioita!
 
-- [ ] Palvelupolku
-- 
 
 
 
