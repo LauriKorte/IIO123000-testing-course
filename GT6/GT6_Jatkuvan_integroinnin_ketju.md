@@ -7,7 +7,7 @@ Tällä kertaa haluamme pystyttää Jenkins build-serverin palvelimellemme, joka
 
 Ryhmä asentaa CI ympäristön käyttäen GitHubia ja Jenkinsiä
 
-Jenkins palvelin pystytetään JAMK:in labranet koneelle. Jenkins palvelimeen luodaan "jobi" jotka osaa noutaa koodin Github-repositoriosta ja kääntää noudettu koodi serverillä. Jenkins asennetaan ryhmän kesken ja jokainen luo sinne oman jobinsa.
+Jenkins palvelin pystytetään JAMK:in labranet koneelle. Jenkins palvelimeen luodaan "jobi" jotka osaa noutaa koodin Github-repositoriosta tietyin väliajoin, ajaa testit ja jos ne menee läpi niin suorittaa buildin. Jenkins asennetaan ryhmän kesken ja jokainen ryhmä luo sinne oman jobinsa.
 
 Tehtävä tehdään ryhmäkohtaisesti ryhmän omalle palvelimelle. Kaikkien tulee ymmärtää kuinka Jenkins toimii.
 
