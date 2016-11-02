@@ -6,7 +6,7 @@ Huomio!
 Tämä tehtävä suoritetaan ryhmänä!
 
 
-Jokainen kurssilainen suunnittelee joukon testitapauksia liittyen tämän syksyn kurssin testauskohteeseen, joka on  henkilön toimintakyvyn arviontiin tarkoitettu mICF-mobiiliapplikaatio. Tätä applikaation prototyyppitoteutusta kehitetään JAMKilla ja testauksesta ei ole varmasti haittaa :)
+Ryhmä suunnittelee joukon testitapauksia liittyen tämän syksyn kurssin testauskohteeseen, joka on  henkilön toimintakyvyn arviontiin tarkoitettu mICF-mobiiliapplikaatio. Tätä applikaation prototyyppitoteutusta kehitetään JAMKilla ja testauksesta ei ole varmasti haittaa :)
 
 * mICF-hanke ja itse työkalu on esitelty [tällä sivulla](https://github.com/JAMK-IT/IIO123000-testing-course/wiki/info-kurssin-testauskohde)
 * Tarvittessa lisätietoa saa Projektipäällikkö Petteri Wecströmiltä
@@ -34,17 +34,9 @@ Lisäksi suunnitellaan muutama tarkempi testitapaus seuraaville osa-alueille
 
 Testit talletetaan kurssin aikana käytettävään [Testlink-palveluun](http://146.185.132.189/testlink), josta ne palautettaessa esitellään ohjaajalle henkilökohtaisesti.
 
-Testitapaukset liitetään yhteiseen testiprojektiin! 
-
-
 * Testiprojekti on nimeltään: PT:Official PT1
 * Ryhmä jäsenet sjoittava suunnittelemansa testitapaukset tämän projekin testitapauskokoelmaan "Test Specification"
-* 
-
-
-
-Ryhmä luo oman projektin jonne tiimi tallettaa suunnittelemansa testitapaukset.
-
+* Ryhmä koostaa tekemänsä testitapaukset yhteen testplaniin! jota esitellän palautuksen yhteydessä
 
 ### Lähteet ja linkit
 
@@ -57,10 +49,8 @@ Ryhmä luo oman projektin jonne tiimi tallettaa suunnittelemansa testitapaukset.
 
 ### Tavoite:
 
-* Oppia suunnittelemaan testejä
+* Oppia suunnittelemaan yksinkertaisia testejä
 * Käyttää apuna MindMap-kuvausta 
-* Suunnitellut testit tullaan ajamaan testikohdetta vastaan myöhemmin kurssin aikana!
-
 
 ### Arviointi:
 
