@@ -2,10 +2,6 @@
 
 Huomio!
 
-![](https://openclipart.org/image/300px/svg_to_png/123637/Skull-and-crossbones-high-voltage-sign.png&disposition=attachment)
-Tämä tehtävä suoritetaan ryhmänä!
-
-
 Ryhmä suunnittelee joukon testitapauksia liittyen tämän syksyn kurssin testauskohteeseen, joka on  henkilön toimintakyvyn arviontiin tarkoitettu mICF-mobiiliapplikaatio. Tätä applikaation prototyyppitoteutusta kehitetään JAMKilla ja testauksesta ei ole varmasti haittaa :)
 
 * mICF-hanke ja itse työkalu on esitelty [tällä sivulla](https://github.com/JAMK-IT/IIO123000-testing-course/wiki/info-kurssin-testauskohde)
@@ -32,11 +28,12 @@ Lisäksi suunnitellaan muutama tarkempi testitapaus seuraaville osa-alueille
 * 2 kpl Ei-toiminnallista suorityskykytestiä
 * 1 kpl Ei-toiminnallista tietoturvatestiä
 
-Testit talletetaan kurssin aikana käytettävään [Testlink-palveluun](http://146.185.132.189/testlink), josta ne palautettaessa esitellään ohjaajalle henkilökohtaisesti.
+Kaikki ryhmän suunnittelemat testit talletetaan kurssin aikana käytettävään [Testlink-palveluun](http://146.185.132.189/testlink), josta ne palautettaessa esitellään ohjaajalle henkilökohtaisesti.
 
-* Testiprojekti on nimeltään: PT:Official PT1
-* Ryhmä jäsenet sjoittava suunnittelemansa testitapaukset tämän projekin testitapauskokoelmaan "Test Specification"
-* Ryhmä koostaa tekemänsä testitapaukset yhteen testplaniin! jota esitellän palautuksen yhteydessä
+
+* Testit talletetaan yhteiseen testiprojektiin, joka on nimeltään: PT:Official PT1
+* Ryhmä jäsenet sjoittava suunnittelemansa testitapaukset tämän projekin testitapauskokoelmaan "Test Specification" folder rakenteeseen
+* Ryhmä luo tekemilleen testitapauksille itsenäisen testisuunnitelman (testplan) joka esitellän palautuksen yhteydessä
 
 ### Lähteet ja linkit
 
